@@ -1,0 +1,41 @@
+supermarket_id,chain_name,branch_name,governorate,district,store_type,is_active
+1,Carrefour,City Stars,Cairo,Nasr City,Hypermarket,True
+2,Carrefour,Mall of Arabia,Giza,6th of October,Hypermarket,True
+3,Carrefour,Alexandria City Centre,Alexandria,Smoha,Hypermarket,True
+4,Carrefour,Cairo Festival City,Cairo,New Cairo,Hypermarket,True
+5,Carrefour,Mansoura,Dakahlia,Mansoura City,Supermarket,True
+6,Carrefour,Tanta,Gharbiya,Tanta City,Supermarket,True
+7,Carrefour,Ismailia,Ismailia,Ismailia City,Supermarket,True
+8,Carrefour,Suez,Suez,Suez City,Supermarket,True
+9,Carrefour,Zagazig,Sharqia,Zagazig City,Supermarket,True
+10,Carrefour,Assiut,Assiut,Assiut City,Supermarket,True
+11,Spinneys,Zamalek,Cairo,Zamalek,Supermarket,True
+12,Spinneys,Maadi,Cairo,Maadi,Supermarket,True
+13,Spinneys,Heliopolis,Cairo,Heliopolis,Supermarket,True
+14,Spinneys,New Cairo,Cairo,New Cairo,Supermarket,True
+15,Spinneys,Alexandria Gleem,Alexandria,Gleem,Supermarket,True
+16,Spinneys,Sheikh Zayed,Giza,Sheikh Zayed,Supermarket,True
+17,Spinneys,Hurghada,Red Sea,Hurghada City,Supermarket,True
+18,Spinneys,Sharm El Sheikh,South Sinai,Sharm El Sheikh,Supermarket,True
+19,Kheir Zaman,Dokki,Giza,Dokki,Supermarket,True
+20,Kheir Zaman,Shubra,Cairo,Shubra,Supermarket,True
+21,Kheir Zaman,Ain Shams,Cairo,Ain Shams,Supermarket,True
+22,Kheir Zaman,Banha,Qalyubia,Banha City,Supermarket,True
+23,Kheir Zaman,Tanta Branch 2,Gharbiya,Tanta City,Supermarket,True
+24,Kheir Zaman,Kafr El Sheikh,Kafr El Sheikh,Kafr El Sheikh City,Supermarket,True
+25,Kheir Zaman,Damanhur,Beheira,Damanhur City,Supermarket,True
+26,Kheir Zaman,Fayoum,Fayoum,Fayoum City,Supermarket,True
+27,Kheir Zaman,Minya,Minya,Minya City,Supermarket,True
+28,Seoudi,Mohandessin,Giza,Mohandessin,Supermarket,True
+29,Seoudi,Agouza,Giza,Agouza,Supermarket,True
+30,Seoudi,Nasr City,Cairo,Nasr City,Supermarket,True
+31,Hyperone,6th of October,Giza,6th of October,Hypermarket,True
+32,Hyperone,5th Settlement,Cairo,New Cairo,Hypermarket,True
+33,Hyperone,Luxor,Luxor,Luxor City,Supermarket,True
+34,Metro Market,Heliopolis,Cairo,Heliopolis,Supermarket,True
+35,Carrefour,Maadi Branch 2,Cairo,Maadi,Supermarket,True
+36,Spinneys,Mansoura,Dakahlia,Mansoura City,Supermarket,True
+37,Seoudi,Zamalek,Cairo,Zamalek,Supermarket,True
+38,Kheir Zaman,Alexandria Branch 2,Alexandria,Mansheya,Supermarket,True
+39,Hyperone,Mansoura Branch 2,Dakahlia,Mansoura City,Hypermarket,True
+40,Metro Market,Giza Branch 2,Giza,Dokki,Supermarket,True

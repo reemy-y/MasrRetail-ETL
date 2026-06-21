@@ -1,0 +1,1945 @@
+cpi_id,category,governorate,cpi_value,base_year,period_year,period_month,source_agency
+1,Food & Beverages,National,215.0,2020,2022,1,CAPMAS
+2,Food & Beverages,Cairo,217.04,2020,2022,1,CAPMAS
+3,Food & Beverages,Alexandria,216.2,2020,2022,1,CAPMAS
+4,Food & Beverages,Giza,223.68,2020,2022,1,CAPMAS
+5,Food & Beverages,Dakahlia,219.68,2020,2022,1,CAPMAS
+6,Food & Beverages,Gharbiya,222.35,2020,2022,1,CAPMAS
+7,Food & Beverages,National,218.87,2020,2022,2,CAPMAS
+8,Food & Beverages,Cairo,211.23,2020,2022,2,CAPMAS
+9,Food & Beverages,Alexandria,225.36,2020,2022,2,CAPMAS
+10,Food & Beverages,Giza,214.02,2020,2022,2,CAPMAS
+11,Food & Beverages,Dakahlia,212.26,2020,2022,2,CAPMAS
+12,Food & Beverages,Gharbiya,229.65,2020,2022,2,CAPMAS
+13,Food & Beverages,National,222.81,2020,2022,3,CAPMAS
+14,Food & Beverages,Cairo,221.39,2020,2022,3,CAPMAS
+15,Food & Beverages,Alexandria,229.42,2020,2022,3,CAPMAS
+16,Food & Beverages,Giza,221.92,2020,2022,3,CAPMAS
+17,Food & Beverages,Dakahlia,231.68,2020,2022,3,CAPMAS
+18,Food & Beverages,Gharbiya,214.82,2020,2022,3,CAPMAS
+19,Food & Beverages,National,226.82,2020,2022,4,CAPMAS
+20,Food & Beverages,Cairo,226.88,2020,2022,4,CAPMAS
+21,Food & Beverages,Alexandria,230.55,2020,2022,4,CAPMAS
+22,Food & Beverages,Giza,231.6,2020,2022,4,CAPMAS
+23,Food & Beverages,Dakahlia,225.99,2020,2022,4,CAPMAS
+24,Food & Beverages,Gharbiya,236.28,2020,2022,4,CAPMAS
+25,Food & Beverages,National,230.9,2020,2022,5,CAPMAS
+26,Food & Beverages,Cairo,239.63,2020,2022,5,CAPMAS
+27,Food & Beverages,Alexandria,238.57,2020,2022,5,CAPMAS
+28,Food & Beverages,Giza,223.6,2020,2022,5,CAPMAS
+29,Food & Beverages,Dakahlia,235.57,2020,2022,5,CAPMAS
+30,Food & Beverages,Gharbiya,226.92,2020,2022,5,CAPMAS
+31,Food & Beverages,National,235.06,2020,2022,6,CAPMAS
+32,Food & Beverages,Cairo,239.18,2020,2022,6,CAPMAS
+33,Food & Beverages,Alexandria,233.22,2020,2022,6,CAPMAS
+34,Food & Beverages,Giza,245.77,2020,2022,6,CAPMAS
+35,Food & Beverages,Dakahlia,234.27,2020,2022,6,CAPMAS
+36,Food & Beverages,Gharbiya,229.38,2020,2022,6,CAPMAS
+37,Food & Beverages,National,239.29,2020,2022,7,CAPMAS
+38,Food & Beverages,Cairo,250.8,2020,2022,7,CAPMAS
+39,Food & Beverages,Alexandria,251.12,2020,2022,7,CAPMAS
+40,Food & Beverages,Giza,249.28,2020,2022,7,CAPMAS
+41,Food & Beverages,Dakahlia,235.26,2020,2022,7,CAPMAS
+42,Food & Beverages,Gharbiya,236.4,2020,2022,7,CAPMAS
+43,Food & Beverages,National,243.6,2020,2022,8,CAPMAS
+44,Food & Beverages,Cairo,246.47,2020,2022,8,CAPMAS
+45,Food & Beverages,Alexandria,240.58,2020,2022,8,CAPMAS
+46,Food & Beverages,Giza,248.58,2020,2022,8,CAPMAS
+47,Food & Beverages,Dakahlia,241.28,2020,2022,8,CAPMAS
+48,Food & Beverages,Gharbiya,253.97,2020,2022,8,CAPMAS
+49,Food & Beverages,National,247.98,2020,2022,9,CAPMAS
+50,Food & Beverages,Cairo,253.1,2020,2022,9,CAPMAS
+51,Food & Beverages,Alexandria,258.47,2020,2022,9,CAPMAS
+52,Food & Beverages,Giza,239.42,2020,2022,9,CAPMAS
+53,Food & Beverages,Dakahlia,245.2,2020,2022,9,CAPMAS
+54,Food & Beverages,Gharbiya,242.36,2020,2022,9,CAPMAS
+55,Food & Beverages,National,252.45,2020,2022,10,CAPMAS
+56,Food & Beverages,Cairo,253.69,2020,2022,10,CAPMAS
+57,Food & Beverages,Alexandria,253.49,2020,2022,10,CAPMAS
+58,Food & Beverages,Giza,261.66,2020,2022,10,CAPMAS
+59,Food & Beverages,Dakahlia,244.16,2020,2022,10,CAPMAS
+60,Food & Beverages,Gharbiya,264.98,2020,2022,10,CAPMAS
+61,Food & Beverages,National,256.99,2020,2022,11,CAPMAS
+62,Food & Beverages,Cairo,247.05,2020,2022,11,CAPMAS
+63,Food & Beverages,Alexandria,258.47,2020,2022,11,CAPMAS
+64,Food & Beverages,Giza,262.93,2020,2022,11,CAPMAS
+65,Food & Beverages,Dakahlia,267.0,2020,2022,11,CAPMAS
+66,Food & Beverages,Gharbiya,251.16,2020,2022,11,CAPMAS
+67,Food & Beverages,National,261.62,2020,2022,12,CAPMAS
+68,Food & Beverages,Cairo,270.9,2020,2022,12,CAPMAS
+69,Food & Beverages,Alexandria,272.42,2020,2022,12,CAPMAS
+70,Food & Beverages,Giza,264.09,2020,2022,12,CAPMAS
+71,Food & Beverages,Dakahlia,268.14,2020,2022,12,CAPMAS
+72,Food & Beverages,Gharbiya,259.24,2020,2022,12,CAPMAS
+73,Food & Beverages,National,266.32,2020,2023,1,CAPMAS
+74,Food & Beverages,Cairo,270.04,2020,2023,1,CAPMAS
+75,Food & Beverages,Alexandria,277.25,2020,2023,1,CAPMAS
+76,Food & Beverages,Giza,267.5,2020,2023,1,CAPMAS
+77,Food & Beverages,Dakahlia,263.25,2020,2023,1,CAPMAS
+78,Food & Beverages,Gharbiya,278.01,2020,2023,1,CAPMAS
+79,Food & Beverages,National,271.12,2020,2023,2,CAPMAS
+80,Food & Beverages,Cairo,264.85,2020,2023,2,CAPMAS
+81,Food & Beverages,Alexandria,266.63,2020,2023,2,CAPMAS
+82,Food & Beverages,Giza,261.98,2020,2023,2,CAPMAS
+83,Food & Beverages,Dakahlia,268.68,2020,2023,2,CAPMAS
+84,Food & Beverages,Gharbiya,268.16,2020,2023,2,CAPMAS
+85,Food & Beverages,National,276.0,2020,2023,3,CAPMAS
+86,Food & Beverages,Cairo,288.86,2020,2023,3,CAPMAS
+87,Food & Beverages,Alexandria,288.92,2020,2023,3,CAPMAS
+88,Food & Beverages,Giza,283.29,2020,2023,3,CAPMAS
+89,Food & Beverages,Dakahlia,285.84,2020,2023,3,CAPMAS
+90,Food & Beverages,Gharbiya,269.05,2020,2023,3,CAPMAS
+91,Food & Beverages,National,280.97,2020,2023,4,CAPMAS
+92,Food & Beverages,Cairo,275.51,2020,2023,4,CAPMAS
+93,Food & Beverages,Alexandria,290.11,2020,2023,4,CAPMAS
+94,Food & Beverages,Giza,272.23,2020,2023,4,CAPMAS
+95,Food & Beverages,Dakahlia,293.09,2020,2023,4,CAPMAS
+96,Food & Beverages,Gharbiya,276.65,2020,2023,4,CAPMAS
+97,Food & Beverages,National,286.02,2020,2023,5,CAPMAS
+98,Food & Beverages,Cairo,280.53,2020,2023,5,CAPMAS
+99,Food & Beverages,Alexandria,298.01,2020,2023,5,CAPMAS
+100,Food & Beverages,Giza,280.91,2020,2023,5,CAPMAS
+101,Food & Beverages,Dakahlia,299.45,2020,2023,5,CAPMAS
+102,Food & Beverages,Gharbiya,278.03,2020,2023,5,CAPMAS
+103,Food & Beverages,National,291.17,2020,2023,6,CAPMAS
+104,Food & Beverages,Cairo,304.67,2020,2023,6,CAPMAS
+105,Food & Beverages,Alexandria,291.52,2020,2023,6,CAPMAS
+106,Food & Beverages,Giza,286.84,2020,2023,6,CAPMAS
+107,Food & Beverages,Dakahlia,296.38,2020,2023,6,CAPMAS
+108,Food & Beverages,Gharbiya,287.05,2020,2023,6,CAPMAS
+109,Food & Beverages,National,296.41,2020,2023,7,CAPMAS
+110,Food & Beverages,Cairo,290.63,2020,2023,7,CAPMAS
+111,Food & Beverages,Alexandria,303.7,2020,2023,7,CAPMAS
+112,Food & Beverages,Giza,288.43,2020,2023,7,CAPMAS
+113,Food & Beverages,Dakahlia,303.29,2020,2023,7,CAPMAS
+114,Food & Beverages,Gharbiya,293.76,2020,2023,7,CAPMAS
+115,Food & Beverages,National,301.75,2020,2023,8,CAPMAS
+116,Food & Beverages,Cairo,302.08,2020,2023,8,CAPMAS
+117,Food & Beverages,Alexandria,301.32,2020,2023,8,CAPMAS
+118,Food & Beverages,Giza,314.64,2020,2023,8,CAPMAS
+119,Food & Beverages,Dakahlia,303.23,2020,2023,8,CAPMAS
+120,Food & Beverages,Gharbiya,307.16,2020,2023,8,CAPMAS
+121,Food & Beverages,National,307.18,2020,2023,9,CAPMAS
+122,Food & Beverages,Cairo,302.7,2020,2023,9,CAPMAS
+123,Food & Beverages,Alexandria,314.45,2020,2023,9,CAPMAS
+124,Food & Beverages,Giza,303.05,2020,2023,9,CAPMAS
+125,Food & Beverages,Dakahlia,318.58,2020,2023,9,CAPMAS
+126,Food & Beverages,Gharbiya,307.95,2020,2023,9,CAPMAS
+127,Food & Beverages,National,312.71,2020,2023,10,CAPMAS
+128,Food & Beverages,Cairo,312.99,2020,2023,10,CAPMAS
+129,Food & Beverages,Alexandria,307.57,2020,2023,10,CAPMAS
+130,Food & Beverages,Giza,318.11,2020,2023,10,CAPMAS
+131,Food & Beverages,Dakahlia,311.27,2020,2023,10,CAPMAS
+132,Food & Beverages,Gharbiya,307.91,2020,2023,10,CAPMAS
+133,Food & Beverages,National,318.34,2020,2023,11,CAPMAS
+134,Food & Beverages,Cairo,323.38,2020,2023,11,CAPMAS
+135,Food & Beverages,Alexandria,309.91,2020,2023,11,CAPMAS
+136,Food & Beverages,Giza,330.47,2020,2023,11,CAPMAS
+137,Food & Beverages,Dakahlia,326.77,2020,2023,11,CAPMAS
+138,Food & Beverages,Gharbiya,320.22,2020,2023,11,CAPMAS
+139,Food & Beverages,National,324.07,2020,2023,12,CAPMAS
+140,Food & Beverages,Cairo,330.4,2020,2023,12,CAPMAS
+141,Food & Beverages,Alexandria,319.74,2020,2023,12,CAPMAS
+142,Food & Beverages,Giza,327.53,2020,2023,12,CAPMAS
+143,Food & Beverages,Dakahlia,311.4,2020,2023,12,CAPMAS
+144,Food & Beverages,Gharbiya,324.25,2020,2023,12,CAPMAS
+145,Food & Beverages,National,329.9,2020,2024,1,CAPMAS
+146,Food & Beverages,Cairo,343.36,2020,2024,1,CAPMAS
+147,Food & Beverages,Alexandria,336.27,2020,2024,1,CAPMAS
+148,Food & Beverages,Giza,318.92,2020,2024,1,CAPMAS
+149,Food & Beverages,Dakahlia,317.66,2020,2024,1,CAPMAS
+150,Food & Beverages,Gharbiya,333.7,2020,2024,1,CAPMAS
+151,Food & Beverages,National,335.84,2020,2024,2,CAPMAS
+152,Food & Beverages,Cairo,339.3,2020,2024,2,CAPMAS
+153,Food & Beverages,Alexandria,331.22,2020,2024,2,CAPMAS
+154,Food & Beverages,Giza,327.66,2020,2024,2,CAPMAS
+155,Food & Beverages,Dakahlia,337.76,2020,2024,2,CAPMAS
+156,Food & Beverages,Gharbiya,339.91,2020,2024,2,CAPMAS
+157,Food & Beverages,National,341.89,2020,2024,3,CAPMAS
+158,Food & Beverages,Cairo,335.83,2020,2024,3,CAPMAS
+159,Food & Beverages,Alexandria,339.88,2020,2024,3,CAPMAS
+160,Food & Beverages,Giza,336.2,2020,2024,3,CAPMAS
+161,Food & Beverages,Dakahlia,331.94,2020,2024,3,CAPMAS
+162,Food & Beverages,Gharbiya,343.68,2020,2024,3,CAPMAS
+163,Food & Beverages,National,348.04,2020,2024,4,CAPMAS
+164,Food & Beverages,Cairo,347.39,2020,2024,4,CAPMAS
+165,Food & Beverages,Alexandria,349.97,2020,2024,4,CAPMAS
+166,Food & Beverages,Giza,364.2,2020,2024,4,CAPMAS
+167,Food & Beverages,Dakahlia,348.84,2020,2024,4,CAPMAS
+168,Food & Beverages,Gharbiya,358.39,2020,2024,4,CAPMAS
+169,Food & Beverages,National,354.3,2020,2024,5,CAPMAS
+170,Food & Beverages,Cairo,370.98,2020,2024,5,CAPMAS
+171,Food & Beverages,Alexandria,367.76,2020,2024,5,CAPMAS
+172,Food & Beverages,Giza,345.87,2020,2024,5,CAPMAS
+173,Food & Beverages,Dakahlia,356.57,2020,2024,5,CAPMAS
+174,Food & Beverages,Gharbiya,342.41,2020,2024,5,CAPMAS
+175,Food & Beverages,National,360.68,2020,2024,6,CAPMAS
+176,Food & Beverages,Cairo,357.37,2020,2024,6,CAPMAS
+177,Food & Beverages,Alexandria,358.06,2020,2024,6,CAPMAS
+178,Food & Beverages,Giza,364.55,2020,2024,6,CAPMAS
+179,Food & Beverages,Dakahlia,364.69,2020,2024,6,CAPMAS
+180,Food & Beverages,Gharbiya,357.99,2020,2024,6,CAPMAS
+181,Food & Beverages,National,367.17,2020,2024,7,CAPMAS
+182,Food & Beverages,Cairo,380.53,2020,2024,7,CAPMAS
+183,Food & Beverages,Alexandria,369.96,2020,2024,7,CAPMAS
+184,Food & Beverages,Giza,361.11,2020,2024,7,CAPMAS
+185,Food & Beverages,Dakahlia,361.22,2020,2024,7,CAPMAS
+186,Food & Beverages,Gharbiya,385.13,2020,2024,7,CAPMAS
+187,Food & Beverages,National,373.78,2020,2024,8,CAPMAS
+188,Food & Beverages,Cairo,388.84,2020,2024,8,CAPMAS
+189,Food & Beverages,Alexandria,370.61,2020,2024,8,CAPMAS
+190,Food & Beverages,Giza,362.76,2020,2024,8,CAPMAS
+191,Food & Beverages,Dakahlia,363.79,2020,2024,8,CAPMAS
+192,Food & Beverages,Gharbiya,384.75,2020,2024,8,CAPMAS
+193,Food & Beverages,National,380.51,2020,2024,9,CAPMAS
+194,Food & Beverages,Cairo,375.11,2020,2024,9,CAPMAS
+195,Food & Beverages,Alexandria,396.77,2020,2024,9,CAPMAS
+196,Food & Beverages,Giza,374.72,2020,2024,9,CAPMAS
+197,Food & Beverages,Dakahlia,389.83,2020,2024,9,CAPMAS
+198,Food & Beverages,Gharbiya,381.3,2020,2024,9,CAPMAS
+199,Food & Beverages,National,387.36,2020,2024,10,CAPMAS
+200,Food & Beverages,Cairo,372.8,2020,2024,10,CAPMAS
+201,Food & Beverages,Alexandria,398.79,2020,2024,10,CAPMAS
+202,Food & Beverages,Giza,386.31,2020,2024,10,CAPMAS
+203,Food & Beverages,Dakahlia,394.61,2020,2024,10,CAPMAS
+204,Food & Beverages,Gharbiya,374.34,2020,2024,10,CAPMAS
+205,Food & Beverages,National,394.33,2020,2024,11,CAPMAS
+206,Food & Beverages,Cairo,404.6,2020,2024,11,CAPMAS
+207,Food & Beverages,Alexandria,399.53,2020,2024,11,CAPMAS
+208,Food & Beverages,Giza,400.22,2020,2024,11,CAPMAS
+209,Food & Beverages,Dakahlia,388.94,2020,2024,11,CAPMAS
+210,Food & Beverages,Gharbiya,390.01,2020,2024,11,CAPMAS
+211,Food & Beverages,National,401.43,2020,2024,12,CAPMAS
+212,Food & Beverages,Cairo,401.62,2020,2024,12,CAPMAS
+213,Food & Beverages,Alexandria,412.45,2020,2024,12,CAPMAS
+214,Food & Beverages,Giza,409.07,2020,2024,12,CAPMAS
+215,Food & Beverages,Dakahlia,395.11,2020,2024,12,CAPMAS
+216,Food & Beverages,Gharbiya,397.16,2020,2024,12,CAPMAS
+217,Food & Beverages,National,408.66,2020,2025,1,CAPMAS
+218,Food & Beverages,Cairo,393.07,2020,2025,1,CAPMAS
+219,Food & Beverages,Alexandria,409.69,2020,2025,1,CAPMAS
+220,Food & Beverages,Giza,428.98,2020,2025,1,CAPMAS
+221,Food & Beverages,Dakahlia,419.1,2020,2025,1,CAPMAS
+222,Food & Beverages,Gharbiya,396.86,2020,2025,1,CAPMAS
+223,Food & Beverages,National,416.01,2020,2025,2,CAPMAS
+224,Food & Beverages,Cairo,418.95,2020,2025,2,CAPMAS
+225,Food & Beverages,Alexandria,402.11,2020,2025,2,CAPMAS
+226,Food & Beverages,Giza,403.14,2020,2025,2,CAPMAS
+227,Food & Beverages,Dakahlia,402.04,2020,2025,2,CAPMAS
+228,Food & Beverages,Gharbiya,414.1,2020,2025,2,CAPMAS
+229,Food & Beverages,National,423.5,2020,2025,3,CAPMAS
+230,Food & Beverages,Cairo,430.85,2020,2025,3,CAPMAS
+231,Food & Beverages,Alexandria,410.17,2020,2025,3,CAPMAS
+232,Food & Beverages,Giza,431.72,2020,2025,3,CAPMAS
+233,Food & Beverages,Dakahlia,409.56,2020,2025,3,CAPMAS
+234,Food & Beverages,Gharbiya,416.32,2020,2025,3,CAPMAS
+235,Food & Beverages,National,431.12,2020,2025,4,CAPMAS
+236,Food & Beverages,Cairo,443.68,2020,2025,4,CAPMAS
+237,Food & Beverages,Alexandria,451.69,2020,2025,4,CAPMAS
+238,Food & Beverages,Giza,433.48,2020,2025,4,CAPMAS
+239,Food & Beverages,Dakahlia,422.31,2020,2025,4,CAPMAS
+240,Food & Beverages,Gharbiya,431.89,2020,2025,4,CAPMAS
+241,Food & Beverages,National,438.88,2020,2025,5,CAPMAS
+242,Food & Beverages,Cairo,459.7,2020,2025,5,CAPMAS
+243,Food & Beverages,Alexandria,423.37,2020,2025,5,CAPMAS
+244,Food & Beverages,Giza,423.63,2020,2025,5,CAPMAS
+245,Food & Beverages,Dakahlia,455.13,2020,2025,5,CAPMAS
+246,Food & Beverages,Gharbiya,438.86,2020,2025,5,CAPMAS
+247,Food & Beverages,National,446.78,2020,2025,6,CAPMAS
+248,Food & Beverages,Cairo,453.91,2020,2025,6,CAPMAS
+249,Food & Beverages,Alexandria,466.99,2020,2025,6,CAPMAS
+250,Food & Beverages,Giza,457.92,2020,2025,6,CAPMAS
+251,Food & Beverages,Dakahlia,454.58,2020,2025,6,CAPMAS
+252,Food & Beverages,Gharbiya,466.41,2020,2025,6,CAPMAS
+253,Dairy,National,208.0,2020,2022,1,CAPMAS
+254,Dairy,Cairo,206.88,2020,2022,1,CAPMAS
+255,Dairy,Alexandria,203.75,2020,2022,1,CAPMAS
+256,Dairy,Giza,207.99,2020,2022,1,CAPMAS
+257,Dairy,Dakahlia,203.04,2020,2022,1,CAPMAS
+258,Dairy,Gharbiya,204.46,2020,2022,1,CAPMAS
+259,Dairy,National,211.74,2020,2022,2,CAPMAS
+260,Dairy,Cairo,215.79,2020,2022,2,CAPMAS
+261,Dairy,Alexandria,217.81,2020,2022,2,CAPMAS
+262,Dairy,Giza,222.1,2020,2022,2,CAPMAS
+263,Dairy,Dakahlia,205.75,2020,2022,2,CAPMAS
+264,Dairy,Gharbiya,209.65,2020,2022,2,CAPMAS
+265,Dairy,National,215.56,2020,2022,3,CAPMAS
+266,Dairy,Cairo,209.9,2020,2022,3,CAPMAS
+267,Dairy,Alexandria,225.52,2020,2022,3,CAPMAS
+268,Dairy,Giza,216.56,2020,2022,3,CAPMAS
+269,Dairy,Dakahlia,217.13,2020,2022,3,CAPMAS
+270,Dairy,Gharbiya,211.89,2020,2022,3,CAPMAS
+271,Dairy,National,219.44,2020,2022,4,CAPMAS
+272,Dairy,Cairo,220.36,2020,2022,4,CAPMAS
+273,Dairy,Alexandria,220.17,2020,2022,4,CAPMAS
+274,Dairy,Giza,222.94,2020,2022,4,CAPMAS
+275,Dairy,Dakahlia,226.29,2020,2022,4,CAPMAS
+276,Dairy,Gharbiya,227.4,2020,2022,4,CAPMAS
+277,Dairy,National,223.39,2020,2022,5,CAPMAS
+278,Dairy,Cairo,219.31,2020,2022,5,CAPMAS
+279,Dairy,Alexandria,226.6,2020,2022,5,CAPMAS
+280,Dairy,Giza,224.85,2020,2022,5,CAPMAS
+281,Dairy,Dakahlia,224.4,2020,2022,5,CAPMAS
+282,Dairy,Gharbiya,221.07,2020,2022,5,CAPMAS
+283,Dairy,National,227.41,2020,2022,6,CAPMAS
+284,Dairy,Cairo,232.65,2020,2022,6,CAPMAS
+285,Dairy,Alexandria,231.65,2020,2022,6,CAPMAS
+286,Dairy,Giza,231.01,2020,2022,6,CAPMAS
+287,Dairy,Dakahlia,231.04,2020,2022,6,CAPMAS
+288,Dairy,Gharbiya,235.42,2020,2022,6,CAPMAS
+289,Dairy,National,231.5,2020,2022,7,CAPMAS
+290,Dairy,Cairo,226.31,2020,2022,7,CAPMAS
+291,Dairy,Alexandria,234.03,2020,2022,7,CAPMAS
+292,Dairy,Giza,224.51,2020,2022,7,CAPMAS
+293,Dairy,Dakahlia,233.06,2020,2022,7,CAPMAS
+294,Dairy,Gharbiya,229.78,2020,2022,7,CAPMAS
+295,Dairy,National,235.67,2020,2022,8,CAPMAS
+296,Dairy,Cairo,231.92,2020,2022,8,CAPMAS
+297,Dairy,Alexandria,244.62,2020,2022,8,CAPMAS
+298,Dairy,Giza,243.35,2020,2022,8,CAPMAS
+299,Dairy,Dakahlia,237.81,2020,2022,8,CAPMAS
+300,Dairy,Gharbiya,231.01,2020,2022,8,CAPMAS
+301,Dairy,National,239.91,2020,2022,9,CAPMAS
+302,Dairy,Cairo,241.26,2020,2022,9,CAPMAS
+303,Dairy,Alexandria,238.14,2020,2022,9,CAPMAS
+304,Dairy,Giza,251.32,2020,2022,9,CAPMAS
+305,Dairy,Dakahlia,249.54,2020,2022,9,CAPMAS
+306,Dairy,Gharbiya,233.63,2020,2022,9,CAPMAS
+307,Dairy,National,244.23,2020,2022,10,CAPMAS
+308,Dairy,Cairo,238.1,2020,2022,10,CAPMAS
+309,Dairy,Alexandria,252.23,2020,2022,10,CAPMAS
+310,Dairy,Giza,250.78,2020,2022,10,CAPMAS
+311,Dairy,Dakahlia,234.85,2020,2022,10,CAPMAS
+312,Dairy,Gharbiya,243.68,2020,2022,10,CAPMAS
+313,Dairy,National,248.62,2020,2022,11,CAPMAS
+314,Dairy,Cairo,259.21,2020,2022,11,CAPMAS
+315,Dairy,Alexandria,241.02,2020,2022,11,CAPMAS
+316,Dairy,Giza,252.17,2020,2022,11,CAPMAS
+317,Dairy,Dakahlia,251.59,2020,2022,11,CAPMAS
+318,Dairy,Gharbiya,242.39,2020,2022,11,CAPMAS
+319,Dairy,National,253.1,2020,2022,12,CAPMAS
+320,Dairy,Cairo,264.13,2020,2022,12,CAPMAS
+321,Dairy,Alexandria,253.14,2020,2022,12,CAPMAS
+322,Dairy,Giza,261.22,2020,2022,12,CAPMAS
+323,Dairy,Dakahlia,261.91,2020,2022,12,CAPMAS
+324,Dairy,Gharbiya,265.62,2020,2022,12,CAPMAS
+325,Dairy,National,257.65,2020,2023,1,CAPMAS
+326,Dairy,Cairo,269.55,2020,2023,1,CAPMAS
+327,Dairy,Alexandria,255.72,2020,2023,1,CAPMAS
+328,Dairy,Giza,255.03,2020,2023,1,CAPMAS
+329,Dairy,Dakahlia,252.54,2020,2023,1,CAPMAS
+330,Dairy,Gharbiya,269.63,2020,2023,1,CAPMAS
+331,Dairy,National,262.29,2020,2023,2,CAPMAS
+332,Dairy,Cairo,253.47,2020,2023,2,CAPMAS
+333,Dairy,Alexandria,267.09,2020,2023,2,CAPMAS
+334,Dairy,Giza,265.35,2020,2023,2,CAPMAS
+335,Dairy,Dakahlia,270.07,2020,2023,2,CAPMAS
+336,Dairy,Gharbiya,253.48,2020,2023,2,CAPMAS
+337,Dairy,National,267.01,2020,2023,3,CAPMAS
+338,Dairy,Cairo,272.31,2020,2023,3,CAPMAS
+339,Dairy,Alexandria,271.74,2020,2023,3,CAPMAS
+340,Dairy,Giza,275.97,2020,2023,3,CAPMAS
+341,Dairy,Dakahlia,264.25,2020,2023,3,CAPMAS
+342,Dairy,Gharbiya,265.53,2020,2023,3,CAPMAS
+343,Dairy,National,271.82,2020,2023,4,CAPMAS
+344,Dairy,Cairo,262.5,2020,2023,4,CAPMAS
+345,Dairy,Alexandria,281.3,2020,2023,4,CAPMAS
+346,Dairy,Giza,279.28,2020,2023,4,CAPMAS
+347,Dairy,Dakahlia,281.97,2020,2023,4,CAPMAS
+348,Dairy,Gharbiya,270.23,2020,2023,4,CAPMAS
+349,Dairy,National,276.71,2020,2023,5,CAPMAS
+350,Dairy,Cairo,281.34,2020,2023,5,CAPMAS
+351,Dairy,Alexandria,269.19,2020,2023,5,CAPMAS
+352,Dairy,Giza,285.63,2020,2023,5,CAPMAS
+353,Dairy,Dakahlia,285.61,2020,2023,5,CAPMAS
+354,Dairy,Gharbiya,285.21,2020,2023,5,CAPMAS
+355,Dairy,National,281.69,2020,2023,6,CAPMAS
+356,Dairy,Cairo,274.77,2020,2023,6,CAPMAS
+357,Dairy,Alexandria,283.82,2020,2023,6,CAPMAS
+358,Dairy,Giza,278.22,2020,2023,6,CAPMAS
+359,Dairy,Dakahlia,285.91,2020,2023,6,CAPMAS
+360,Dairy,Gharbiya,284.7,2020,2023,6,CAPMAS
+361,Dairy,National,286.76,2020,2023,7,CAPMAS
+362,Dairy,Cairo,298.2,2020,2023,7,CAPMAS
+363,Dairy,Alexandria,296.5,2020,2023,7,CAPMAS
+364,Dairy,Giza,292.59,2020,2023,7,CAPMAS
+365,Dairy,Dakahlia,294.78,2020,2023,7,CAPMAS
+366,Dairy,Gharbiya,297.95,2020,2023,7,CAPMAS
+367,Dairy,National,291.92,2020,2023,8,CAPMAS
+368,Dairy,Cairo,281.73,2020,2023,8,CAPMAS
+369,Dairy,Alexandria,280.37,2020,2023,8,CAPMAS
+370,Dairy,Giza,283.41,2020,2023,8,CAPMAS
+371,Dairy,Dakahlia,283.53,2020,2023,8,CAPMAS
+372,Dairy,Gharbiya,288.8,2020,2023,8,CAPMAS
+373,Dairy,National,297.18,2020,2023,9,CAPMAS
+374,Dairy,Cairo,299.01,2020,2023,9,CAPMAS
+375,Dairy,Alexandria,302.73,2020,2023,9,CAPMAS
+376,Dairy,Giza,308.68,2020,2023,9,CAPMAS
+377,Dairy,Dakahlia,306.3,2020,2023,9,CAPMAS
+378,Dairy,Gharbiya,290.46,2020,2023,9,CAPMAS
+379,Dairy,National,302.53,2020,2023,10,CAPMAS
+380,Dairy,Cairo,307.15,2020,2023,10,CAPMAS
+381,Dairy,Alexandria,290.5,2020,2023,10,CAPMAS
+382,Dairy,Giza,314.94,2020,2023,10,CAPMAS
+383,Dairy,Dakahlia,314.58,2020,2023,10,CAPMAS
+384,Dairy,Gharbiya,313.16,2020,2023,10,CAPMAS
+385,Dairy,National,307.97,2020,2023,11,CAPMAS
+386,Dairy,Cairo,306.27,2020,2023,11,CAPMAS
+387,Dairy,Alexandria,312.23,2020,2023,11,CAPMAS
+388,Dairy,Giza,300.38,2020,2023,11,CAPMAS
+389,Dairy,Dakahlia,311.07,2020,2023,11,CAPMAS
+390,Dairy,Gharbiya,313.22,2020,2023,11,CAPMAS
+391,Dairy,National,313.52,2020,2023,12,CAPMAS
+392,Dairy,Cairo,326.57,2020,2023,12,CAPMAS
+393,Dairy,Alexandria,320.27,2020,2023,12,CAPMAS
+394,Dairy,Giza,320.98,2020,2023,12,CAPMAS
+395,Dairy,Dakahlia,327.09,2020,2023,12,CAPMAS
+396,Dairy,Gharbiya,315.03,2020,2023,12,CAPMAS
+397,Dairy,National,319.16,2020,2024,1,CAPMAS
+398,Dairy,Cairo,325.8,2020,2024,1,CAPMAS
+399,Dairy,Alexandria,329.18,2020,2024,1,CAPMAS
+400,Dairy,Giza,328.65,2020,2024,1,CAPMAS
+401,Dairy,Dakahlia,311.53,2020,2024,1,CAPMAS
+402,Dairy,Gharbiya,332.56,2020,2024,1,CAPMAS
+403,Dairy,National,324.91,2020,2024,2,CAPMAS
+404,Dairy,Cairo,331.69,2020,2024,2,CAPMAS
+405,Dairy,Alexandria,325.82,2020,2024,2,CAPMAS
+406,Dairy,Giza,317.6,2020,2024,2,CAPMAS
+407,Dairy,Dakahlia,314.16,2020,2024,2,CAPMAS
+408,Dairy,Gharbiya,337.7,2020,2024,2,CAPMAS
+409,Dairy,National,330.75,2020,2024,3,CAPMAS
+410,Dairy,Cairo,322.39,2020,2024,3,CAPMAS
+411,Dairy,Alexandria,325.26,2020,2024,3,CAPMAS
+412,Dairy,Giza,341.13,2020,2024,3,CAPMAS
+413,Dairy,Dakahlia,333.57,2020,2024,3,CAPMAS
+414,Dairy,Gharbiya,321.51,2020,2024,3,CAPMAS
+415,Dairy,National,336.71,2020,2024,4,CAPMAS
+416,Dairy,Cairo,343.13,2020,2024,4,CAPMAS
+417,Dairy,Alexandria,336.71,2020,2024,4,CAPMAS
+418,Dairy,Giza,336.76,2020,2024,4,CAPMAS
+419,Dairy,Dakahlia,329.08,2020,2024,4,CAPMAS
+420,Dairy,Gharbiya,326.18,2020,2024,4,CAPMAS
+421,Dairy,National,342.77,2020,2024,5,CAPMAS
+422,Dairy,Cairo,355.62,2020,2024,5,CAPMAS
+423,Dairy,Alexandria,338.31,2020,2024,5,CAPMAS
+424,Dairy,Giza,349.24,2020,2024,5,CAPMAS
+425,Dairy,Dakahlia,337.32,2020,2024,5,CAPMAS
+426,Dairy,Gharbiya,353.21,2020,2024,5,CAPMAS
+427,Dairy,National,348.94,2020,2024,6,CAPMAS
+428,Dairy,Cairo,338.6,2020,2024,6,CAPMAS
+429,Dairy,Alexandria,357.17,2020,2024,6,CAPMAS
+430,Dairy,Giza,346.78,2020,2024,6,CAPMAS
+431,Dairy,Dakahlia,343.47,2020,2024,6,CAPMAS
+432,Dairy,Gharbiya,365.42,2020,2024,6,CAPMAS
+433,Dairy,National,355.22,2020,2024,7,CAPMAS
+434,Dairy,Cairo,359.38,2020,2024,7,CAPMAS
+435,Dairy,Alexandria,372.09,2020,2024,7,CAPMAS
+436,Dairy,Giza,365.4,2020,2024,7,CAPMAS
+437,Dairy,Dakahlia,353.3,2020,2024,7,CAPMAS
+438,Dairy,Gharbiya,361.25,2020,2024,7,CAPMAS
+439,Dairy,National,361.61,2020,2024,8,CAPMAS
+440,Dairy,Cairo,368.92,2020,2024,8,CAPMAS
+441,Dairy,Alexandria,365.14,2020,2024,8,CAPMAS
+442,Dairy,Giza,347.35,2020,2024,8,CAPMAS
+443,Dairy,Dakahlia,365.85,2020,2024,8,CAPMAS
+444,Dairy,Gharbiya,377.48,2020,2024,8,CAPMAS
+445,Dairy,National,368.12,2020,2024,9,CAPMAS
+446,Dairy,Cairo,380.85,2020,2024,9,CAPMAS
+447,Dairy,Alexandria,378.8,2020,2024,9,CAPMAS
+448,Dairy,Giza,368.2,2020,2024,9,CAPMAS
+449,Dairy,Dakahlia,375.42,2020,2024,9,CAPMAS
+450,Dairy,Gharbiya,381.35,2020,2024,9,CAPMAS
+451,Dairy,National,374.75,2020,2024,10,CAPMAS
+452,Dairy,Cairo,374.95,2020,2024,10,CAPMAS
+453,Dairy,Alexandria,390.91,2020,2024,10,CAPMAS
+454,Dairy,Giza,382.21,2020,2024,10,CAPMAS
+455,Dairy,Dakahlia,373.72,2020,2024,10,CAPMAS
+456,Dairy,Gharbiya,370.94,2020,2024,10,CAPMAS
+457,Dairy,National,381.49,2020,2024,11,CAPMAS
+458,Dairy,Cairo,388.45,2020,2024,11,CAPMAS
+459,Dairy,Alexandria,368.25,2020,2024,11,CAPMAS
+460,Dairy,Giza,389.37,2020,2024,11,CAPMAS
+461,Dairy,Dakahlia,396.98,2020,2024,11,CAPMAS
+462,Dairy,Gharbiya,371.59,2020,2024,11,CAPMAS
+463,Dairy,National,388.36,2020,2024,12,CAPMAS
+464,Dairy,Cairo,375.92,2020,2024,12,CAPMAS
+465,Dairy,Alexandria,404.56,2020,2024,12,CAPMAS
+466,Dairy,Giza,400.45,2020,2024,12,CAPMAS
+467,Dairy,Dakahlia,405.6,2020,2024,12,CAPMAS
+468,Dairy,Gharbiya,375.96,2020,2024,12,CAPMAS
+469,Dairy,National,395.35,2020,2025,1,CAPMAS
+470,Dairy,Cairo,398.44,2020,2025,1,CAPMAS
+471,Dairy,Alexandria,395.65,2020,2025,1,CAPMAS
+472,Dairy,Giza,415.02,2020,2025,1,CAPMAS
+473,Dairy,Dakahlia,396.5,2020,2025,1,CAPMAS
+474,Dairy,Gharbiya,400.14,2020,2025,1,CAPMAS
+475,Dairy,National,402.47,2020,2025,2,CAPMAS
+476,Dairy,Cairo,396.29,2020,2025,2,CAPMAS
+477,Dairy,Alexandria,416.39,2020,2025,2,CAPMAS
+478,Dairy,Giza,399.89,2020,2025,2,CAPMAS
+479,Dairy,Dakahlia,401.93,2020,2025,2,CAPMAS
+480,Dairy,Gharbiya,419.4,2020,2025,2,CAPMAS
+481,Dairy,National,409.71,2020,2025,3,CAPMAS
+482,Dairy,Cairo,416.16,2020,2025,3,CAPMAS
+483,Dairy,Alexandria,423.04,2020,2025,3,CAPMAS
+484,Dairy,Giza,420.17,2020,2025,3,CAPMAS
+485,Dairy,Dakahlia,418.63,2020,2025,3,CAPMAS
+486,Dairy,Gharbiya,422.68,2020,2025,3,CAPMAS
+487,Dairy,National,417.09,2020,2025,4,CAPMAS
+488,Dairy,Cairo,436.77,2020,2025,4,CAPMAS
+489,Dairy,Alexandria,427.43,2020,2025,4,CAPMAS
+490,Dairy,Giza,402.46,2020,2025,4,CAPMAS
+491,Dairy,Dakahlia,410.55,2020,2025,4,CAPMAS
+492,Dairy,Gharbiya,410.62,2020,2025,4,CAPMAS
+493,Dairy,National,424.59,2020,2025,5,CAPMAS
+494,Dairy,Cairo,407.66,2020,2025,5,CAPMAS
+495,Dairy,Alexandria,410.71,2020,2025,5,CAPMAS
+496,Dairy,Giza,445.33,2020,2025,5,CAPMAS
+497,Dairy,Dakahlia,422.59,2020,2025,5,CAPMAS
+498,Dairy,Gharbiya,421.82,2020,2025,5,CAPMAS
+499,Dairy,National,432.24,2020,2025,6,CAPMAS
+500,Dairy,Cairo,432.6,2020,2025,6,CAPMAS
+501,Dairy,Alexandria,441.96,2020,2025,6,CAPMAS
+502,Dairy,Giza,432.9,2020,2025,6,CAPMAS
+503,Dairy,Dakahlia,431.26,2020,2025,6,CAPMAS
+504,Dairy,Gharbiya,439.94,2020,2025,6,CAPMAS
+505,Bread & Cereals,National,225.0,2020,2022,1,CAPMAS
+506,Bread & Cereals,Cairo,231.59,2020,2022,1,CAPMAS
+507,Bread & Cereals,Alexandria,234.79,2020,2022,1,CAPMAS
+508,Bread & Cereals,Giza,223.35,2020,2022,1,CAPMAS
+509,Bread & Cereals,Dakahlia,225.27,2020,2022,1,CAPMAS
+510,Bread & Cereals,Gharbiya,219.9,2020,2022,1,CAPMAS
+511,Bread & Cereals,National,229.05,2020,2022,2,CAPMAS
+512,Bread & Cereals,Cairo,222.76,2020,2022,2,CAPMAS
+513,Bread & Cereals,Alexandria,233.14,2020,2022,2,CAPMAS
+514,Bread & Cereals,Giza,229.78,2020,2022,2,CAPMAS
+515,Bread & Cereals,Dakahlia,226.09,2020,2022,2,CAPMAS
+516,Bread & Cereals,Gharbiya,235.65,2020,2022,2,CAPMAS
+517,Bread & Cereals,National,233.17,2020,2022,3,CAPMAS
+518,Bread & Cereals,Cairo,230.93,2020,2022,3,CAPMAS
+519,Bread & Cereals,Alexandria,232.93,2020,2022,3,CAPMAS
+520,Bread & Cereals,Giza,230.65,2020,2022,3,CAPMAS
+521,Bread & Cereals,Dakahlia,224.28,2020,2022,3,CAPMAS
+522,Bread & Cereals,Gharbiya,239.63,2020,2022,3,CAPMAS
+523,Bread & Cereals,National,237.37,2020,2022,4,CAPMAS
+524,Bread & Cereals,Cairo,243.4,2020,2022,4,CAPMAS
+525,Bread & Cereals,Alexandria,233.03,2020,2022,4,CAPMAS
+526,Bread & Cereals,Giza,229.04,2020,2022,4,CAPMAS
+527,Bread & Cereals,Dakahlia,244.61,2020,2022,4,CAPMAS
+528,Bread & Cereals,Gharbiya,246.91,2020,2022,4,CAPMAS
+529,Bread & Cereals,National,241.64,2020,2022,5,CAPMAS
+530,Bread & Cereals,Cairo,241.24,2020,2022,5,CAPMAS
+531,Bread & Cereals,Alexandria,247.26,2020,2022,5,CAPMAS
+532,Bread & Cereals,Giza,234.52,2020,2022,5,CAPMAS
+533,Bread & Cereals,Dakahlia,247.26,2020,2022,5,CAPMAS
+534,Bread & Cereals,Gharbiya,245.82,2020,2022,5,CAPMAS
+535,Bread & Cereals,National,245.99,2020,2022,6,CAPMAS
+536,Bread & Cereals,Cairo,255.27,2020,2022,6,CAPMAS
+537,Bread & Cereals,Alexandria,254.7,2020,2022,6,CAPMAS
+538,Bread & Cereals,Giza,254.7,2020,2022,6,CAPMAS
+539,Bread & Cereals,Dakahlia,257.2,2020,2022,6,CAPMAS
+540,Bread & Cereals,Gharbiya,243.55,2020,2022,6,CAPMAS
+541,Bread & Cereals,National,250.42,2020,2022,7,CAPMAS
+542,Bread & Cereals,Cairo,259.56,2020,2022,7,CAPMAS
+543,Bread & Cereals,Alexandria,260.63,2020,2022,7,CAPMAS
+544,Bread & Cereals,Giza,245.36,2020,2022,7,CAPMAS
+545,Bread & Cereals,Dakahlia,259.23,2020,2022,7,CAPMAS
+546,Bread & Cereals,Gharbiya,240.69,2020,2022,7,CAPMAS
+547,Bread & Cereals,National,254.93,2020,2022,8,CAPMAS
+548,Bread & Cereals,Cairo,249.41,2020,2022,8,CAPMAS
+549,Bread & Cereals,Alexandria,264.81,2020,2022,8,CAPMAS
+550,Bread & Cereals,Giza,251.53,2020,2022,8,CAPMAS
+551,Bread & Cereals,Dakahlia,257.2,2020,2022,8,CAPMAS
+552,Bread & Cereals,Gharbiya,244.73,2020,2022,8,CAPMAS
+553,Bread & Cereals,National,259.52,2020,2022,9,CAPMAS
+554,Bread & Cereals,Cairo,260.6,2020,2022,9,CAPMAS
+555,Bread & Cereals,Alexandria,261.48,2020,2022,9,CAPMAS
+556,Bread & Cereals,Giza,263.97,2020,2022,9,CAPMAS
+557,Bread & Cereals,Dakahlia,268.58,2020,2022,9,CAPMAS
+558,Bread & Cereals,Gharbiya,252.62,2020,2022,9,CAPMAS
+559,Bread & Cereals,National,264.19,2020,2022,10,CAPMAS
+560,Bread & Cereals,Cairo,258.43,2020,2022,10,CAPMAS
+561,Bread & Cereals,Alexandria,275.84,2020,2022,10,CAPMAS
+562,Bread & Cereals,Giza,272.72,2020,2022,10,CAPMAS
+563,Bread & Cereals,Dakahlia,262.61,2020,2022,10,CAPMAS
+564,Bread & Cereals,Gharbiya,261.98,2020,2022,10,CAPMAS
+565,Bread & Cereals,National,268.94,2020,2022,11,CAPMAS
+566,Bread & Cereals,Cairo,259.54,2020,2022,11,CAPMAS
+567,Bread & Cereals,Alexandria,260.88,2020,2022,11,CAPMAS
+568,Bread & Cereals,Giza,278.57,2020,2022,11,CAPMAS
+569,Bread & Cereals,Dakahlia,268.63,2020,2022,11,CAPMAS
+570,Bread & Cereals,Gharbiya,261.13,2020,2022,11,CAPMAS
+571,Bread & Cereals,National,273.78,2020,2022,12,CAPMAS
+572,Bread & Cereals,Cairo,277.71,2020,2022,12,CAPMAS
+573,Bread & Cereals,Alexandria,268.26,2020,2022,12,CAPMAS
+574,Bread & Cereals,Giza,283.71,2020,2022,12,CAPMAS
+575,Bread & Cereals,Dakahlia,274.15,2020,2022,12,CAPMAS
+576,Bread & Cereals,Gharbiya,271.0,2020,2022,12,CAPMAS
+577,Bread & Cereals,National,278.71,2020,2023,1,CAPMAS
+578,Bread & Cereals,Cairo,269.03,2020,2023,1,CAPMAS
+579,Bread & Cereals,Alexandria,270.53,2020,2023,1,CAPMAS
+580,Bread & Cereals,Giza,279.1,2020,2023,1,CAPMAS
+581,Bread & Cereals,Dakahlia,288.63,2020,2023,1,CAPMAS
+582,Bread & Cereals,Gharbiya,283.61,2020,2023,1,CAPMAS
+583,Bread & Cereals,National,283.73,2020,2023,2,CAPMAS
+584,Bread & Cereals,Cairo,289.77,2020,2023,2,CAPMAS
+585,Bread & Cereals,Alexandria,283.69,2020,2023,2,CAPMAS
+586,Bread & Cereals,Giza,283.38,2020,2023,2,CAPMAS
+587,Bread & Cereals,Dakahlia,277.56,2020,2023,2,CAPMAS
+588,Bread & Cereals,Gharbiya,287.56,2020,2023,2,CAPMAS
+589,Bread & Cereals,National,288.84,2020,2023,3,CAPMAS
+590,Bread & Cereals,Cairo,302.73,2020,2023,3,CAPMAS
+591,Bread & Cereals,Alexandria,288.01,2020,2023,3,CAPMAS
+592,Bread & Cereals,Giza,278.13,2020,2023,3,CAPMAS
+593,Bread & Cereals,Dakahlia,301.46,2020,2023,3,CAPMAS
+594,Bread & Cereals,Gharbiya,287.35,2020,2023,3,CAPMAS
+595,Bread & Cereals,National,294.04,2020,2023,4,CAPMAS
+596,Bread & Cereals,Cairo,283.57,2020,2023,4,CAPMAS
+597,Bread & Cereals,Alexandria,294.48,2020,2023,4,CAPMAS
+598,Bread & Cereals,Giza,298.58,2020,2023,4,CAPMAS
+599,Bread & Cereals,Dakahlia,304.17,2020,2023,4,CAPMAS
+600,Bread & Cereals,Gharbiya,305.12,2020,2023,4,CAPMAS
+601,Bread & Cereals,National,299.33,2020,2023,5,CAPMAS
+602,Bread & Cereals,Cairo,291.39,2020,2023,5,CAPMAS
+603,Bread & Cereals,Alexandria,310.6,2020,2023,5,CAPMAS
+604,Bread & Cereals,Giza,301.13,2020,2023,5,CAPMAS
+605,Bread & Cereals,Dakahlia,287.85,2020,2023,5,CAPMAS
+606,Bread & Cereals,Gharbiya,305.39,2020,2023,5,CAPMAS
+607,Bread & Cereals,National,304.72,2020,2023,6,CAPMAS
+608,Bread & Cereals,Cairo,305.97,2020,2023,6,CAPMAS
+609,Bread & Cereals,Alexandria,306.71,2020,2023,6,CAPMAS
+610,Bread & Cereals,Giza,312.06,2020,2023,6,CAPMAS
+611,Bread & Cereals,Dakahlia,304.94,2020,2023,6,CAPMAS
+612,Bread & Cereals,Gharbiya,307.98,2020,2023,6,CAPMAS
+613,Bread & Cereals,National,310.2,2020,2023,7,CAPMAS
+614,Bread & Cereals,Cairo,311.99,2020,2023,7,CAPMAS
+615,Bread & Cereals,Alexandria,311.88,2020,2023,7,CAPMAS
+616,Bread & Cereals,Giza,304.94,2020,2023,7,CAPMAS
+617,Bread & Cereals,Dakahlia,303.84,2020,2023,7,CAPMAS
+618,Bread & Cereals,Gharbiya,307.51,2020,2023,7,CAPMAS
+619,Bread & Cereals,National,315.78,2020,2023,8,CAPMAS
+620,Bread & Cereals,Cairo,314.61,2020,2023,8,CAPMAS
+621,Bread & Cereals,Alexandria,318.24,2020,2023,8,CAPMAS
+622,Bread & Cereals,Giza,314.28,2020,2023,8,CAPMAS
+623,Bread & Cereals,Dakahlia,322.66,2020,2023,8,CAPMAS
+624,Bread & Cereals,Gharbiya,331.46,2020,2023,8,CAPMAS
+625,Bread & Cereals,National,321.47,2020,2023,9,CAPMAS
+626,Bread & Cereals,Cairo,321.54,2020,2023,9,CAPMAS
+627,Bread & Cereals,Alexandria,315.95,2020,2023,9,CAPMAS
+628,Bread & Cereals,Giza,323.14,2020,2023,9,CAPMAS
+629,Bread & Cereals,Dakahlia,335.77,2020,2023,9,CAPMAS
+630,Bread & Cereals,Gharbiya,315.39,2020,2023,9,CAPMAS
+631,Bread & Cereals,National,327.25,2020,2023,10,CAPMAS
+632,Bread & Cereals,Cairo,339.86,2020,2023,10,CAPMAS
+633,Bread & Cereals,Alexandria,341.99,2020,2023,10,CAPMAS
+634,Bread & Cereals,Giza,330.94,2020,2023,10,CAPMAS
+635,Bread & Cereals,Dakahlia,327.13,2020,2023,10,CAPMAS
+636,Bread & Cereals,Gharbiya,340.65,2020,2023,10,CAPMAS
+637,Bread & Cereals,National,333.15,2020,2023,11,CAPMAS
+638,Bread & Cereals,Cairo,327.54,2020,2023,11,CAPMAS
+639,Bread & Cereals,Alexandria,344.24,2020,2023,11,CAPMAS
+640,Bread & Cereals,Giza,337.53,2020,2023,11,CAPMAS
+641,Bread & Cereals,Dakahlia,330.47,2020,2023,11,CAPMAS
+642,Bread & Cereals,Gharbiya,323.29,2020,2023,11,CAPMAS
+643,Bread & Cereals,National,339.14,2020,2023,12,CAPMAS
+644,Bread & Cereals,Cairo,355.92,2020,2023,12,CAPMAS
+645,Bread & Cereals,Alexandria,351.58,2020,2023,12,CAPMAS
+646,Bread & Cereals,Giza,350.05,2020,2023,12,CAPMAS
+647,Bread & Cereals,Dakahlia,332.17,2020,2023,12,CAPMAS
+648,Bread & Cereals,Gharbiya,339.38,2020,2023,12,CAPMAS
+649,Bread & Cereals,National,345.25,2020,2024,1,CAPMAS
+650,Bread & Cereals,Cairo,336.14,2020,2024,1,CAPMAS
+651,Bread & Cereals,Alexandria,351.88,2020,2024,1,CAPMAS
+652,Bread & Cereals,Giza,333.48,2020,2024,1,CAPMAS
+653,Bread & Cereals,Dakahlia,341.62,2020,2024,1,CAPMAS
+654,Bread & Cereals,Gharbiya,345.3,2020,2024,1,CAPMAS
+655,Bread & Cereals,National,351.46,2020,2024,2,CAPMAS
+656,Bread & Cereals,Cairo,360.55,2020,2024,2,CAPMAS
+657,Bread & Cereals,Alexandria,367.99,2020,2024,2,CAPMAS
+658,Bread & Cereals,Giza,346.16,2020,2024,2,CAPMAS
+659,Bread & Cereals,Dakahlia,354.35,2020,2024,2,CAPMAS
+660,Bread & Cereals,Gharbiya,366.07,2020,2024,2,CAPMAS
+661,Bread & Cereals,National,357.79,2020,2024,3,CAPMAS
+662,Bread & Cereals,Cairo,349.36,2020,2024,3,CAPMAS
+663,Bread & Cereals,Alexandria,352.94,2020,2024,3,CAPMAS
+664,Bread & Cereals,Giza,370.28,2020,2024,3,CAPMAS
+665,Bread & Cereals,Dakahlia,353.42,2020,2024,3,CAPMAS
+666,Bread & Cereals,Gharbiya,363.09,2020,2024,3,CAPMAS
+667,Bread & Cereals,National,364.23,2020,2024,4,CAPMAS
+668,Bread & Cereals,Cairo,376.86,2020,2024,4,CAPMAS
+669,Bread & Cereals,Alexandria,375.75,2020,2024,4,CAPMAS
+670,Bread & Cereals,Giza,376.31,2020,2024,4,CAPMAS
+671,Bread & Cereals,Dakahlia,370.66,2020,2024,4,CAPMAS
+672,Bread & Cereals,Gharbiya,364.39,2020,2024,4,CAPMAS
+673,Bread & Cereals,National,370.78,2020,2024,5,CAPMAS
+674,Bread & Cereals,Cairo,369.97,2020,2024,5,CAPMAS
+675,Bread & Cereals,Alexandria,366.83,2020,2024,5,CAPMAS
+676,Bread & Cereals,Giza,374.9,2020,2024,5,CAPMAS
+677,Bread & Cereals,Dakahlia,378.31,2020,2024,5,CAPMAS
+678,Bread & Cereals,Gharbiya,361.54,2020,2024,5,CAPMAS
+679,Bread & Cereals,National,377.46,2020,2024,6,CAPMAS
+680,Bread & Cereals,Cairo,389.89,2020,2024,6,CAPMAS
+681,Bread & Cereals,Alexandria,369.72,2020,2024,6,CAPMAS
+682,Bread & Cereals,Giza,365.96,2020,2024,6,CAPMAS
+683,Bread & Cereals,Dakahlia,393.15,2020,2024,6,CAPMAS
+684,Bread & Cereals,Gharbiya,376.23,2020,2024,6,CAPMAS
+685,Bread & Cereals,National,384.25,2020,2024,7,CAPMAS
+686,Bread & Cereals,Cairo,377.03,2020,2024,7,CAPMAS
+687,Bread & Cereals,Alexandria,402.89,2020,2024,7,CAPMAS
+688,Bread & Cereals,Giza,371.85,2020,2024,7,CAPMAS
+689,Bread & Cereals,Dakahlia,376.58,2020,2024,7,CAPMAS
+690,Bread & Cereals,Gharbiya,399.38,2020,2024,7,CAPMAS
+691,Bread & Cereals,National,391.17,2020,2024,8,CAPMAS
+692,Bread & Cereals,Cairo,404.73,2020,2024,8,CAPMAS
+693,Bread & Cereals,Alexandria,377.73,2020,2024,8,CAPMAS
+694,Bread & Cereals,Giza,379.26,2020,2024,8,CAPMAS
+695,Bread & Cereals,Dakahlia,401.12,2020,2024,8,CAPMAS
+696,Bread & Cereals,Gharbiya,400.49,2020,2024,8,CAPMAS
+697,Bread & Cereals,National,398.21,2020,2024,9,CAPMAS
+698,Bread & Cereals,Cairo,395.94,2020,2024,9,CAPMAS
+699,Bread & Cereals,Alexandria,403.08,2020,2024,9,CAPMAS
+700,Bread & Cereals,Giza,383.12,2020,2024,9,CAPMAS
+701,Bread & Cereals,Dakahlia,392.16,2020,2024,9,CAPMAS
+702,Bread & Cereals,Gharbiya,398.05,2020,2024,9,CAPMAS
+703,Bread & Cereals,National,405.38,2020,2024,10,CAPMAS
+704,Bread & Cereals,Cairo,390.92,2020,2024,10,CAPMAS
+705,Bread & Cereals,Alexandria,404.93,2020,2024,10,CAPMAS
+706,Bread & Cereals,Giza,400.3,2020,2024,10,CAPMAS
+707,Bread & Cereals,Dakahlia,411.0,2020,2024,10,CAPMAS
+708,Bread & Cereals,Gharbiya,391.35,2020,2024,10,CAPMAS
+709,Bread & Cereals,National,412.67,2020,2024,11,CAPMAS
+710,Bread & Cereals,Cairo,409.06,2020,2024,11,CAPMAS
+711,Bread & Cereals,Alexandria,426.08,2020,2024,11,CAPMAS
+712,Bread & Cereals,Giza,398.57,2020,2024,11,CAPMAS
+713,Bread & Cereals,Dakahlia,399.81,2020,2024,11,CAPMAS
+714,Bread & Cereals,Gharbiya,424.41,2020,2024,11,CAPMAS
+715,Bread & Cereals,National,420.1,2020,2024,12,CAPMAS
+716,Bread & Cereals,Cairo,426.59,2020,2024,12,CAPMAS
+717,Bread & Cereals,Alexandria,437.62,2020,2024,12,CAPMAS
+718,Bread & Cereals,Giza,421.99,2020,2024,12,CAPMAS
+719,Bread & Cereals,Dakahlia,424.64,2020,2024,12,CAPMAS
+720,Bread & Cereals,Gharbiya,406.82,2020,2024,12,CAPMAS
+721,Bread & Cereals,National,427.66,2020,2025,1,CAPMAS
+722,Bread & Cereals,Cairo,443.86,2020,2025,1,CAPMAS
+723,Bread & Cereals,Alexandria,434.65,2020,2025,1,CAPMAS
+724,Bread & Cereals,Giza,413.35,2020,2025,1,CAPMAS
+725,Bread & Cereals,Dakahlia,448.17,2020,2025,1,CAPMAS
+726,Bread & Cereals,Gharbiya,416.73,2020,2025,1,CAPMAS
+727,Bread & Cereals,National,435.36,2020,2025,2,CAPMAS
+728,Bread & Cereals,Cairo,448.88,2020,2025,2,CAPMAS
+729,Bread & Cereals,Alexandria,438.9,2020,2025,2,CAPMAS
+730,Bread & Cereals,Giza,420.08,2020,2025,2,CAPMAS
+731,Bread & Cereals,Dakahlia,442.38,2020,2025,2,CAPMAS
+732,Bread & Cereals,Gharbiya,451.01,2020,2025,2,CAPMAS
+733,Bread & Cereals,National,443.2,2020,2025,3,CAPMAS
+734,Bread & Cereals,Cairo,442.46,2020,2025,3,CAPMAS
+735,Bread & Cereals,Alexandria,452.52,2020,2025,3,CAPMAS
+736,Bread & Cereals,Giza,451.02,2020,2025,3,CAPMAS
+737,Bread & Cereals,Dakahlia,458.45,2020,2025,3,CAPMAS
+738,Bread & Cereals,Gharbiya,446.32,2020,2025,3,CAPMAS
+739,Bread & Cereals,National,451.18,2020,2025,4,CAPMAS
+740,Bread & Cereals,Cairo,469.38,2020,2025,4,CAPMAS
+741,Bread & Cereals,Alexandria,466.94,2020,2025,4,CAPMAS
+742,Bread & Cereals,Giza,445.65,2020,2025,4,CAPMAS
+743,Bread & Cereals,Dakahlia,436.41,2020,2025,4,CAPMAS
+744,Bread & Cereals,Gharbiya,469.54,2020,2025,4,CAPMAS
+745,Bread & Cereals,National,459.3,2020,2025,5,CAPMAS
+746,Bread & Cereals,Cairo,458.56,2020,2025,5,CAPMAS
+747,Bread & Cereals,Alexandria,470.79,2020,2025,5,CAPMAS
+748,Bread & Cereals,Giza,444.9,2020,2025,5,CAPMAS
+749,Bread & Cereals,Dakahlia,460.64,2020,2025,5,CAPMAS
+750,Bread & Cereals,Gharbiya,460.22,2020,2025,5,CAPMAS
+751,Bread & Cereals,National,467.56,2020,2025,6,CAPMAS
+752,Bread & Cereals,Cairo,455.26,2020,2025,6,CAPMAS
+753,Bread & Cereals,Alexandria,474.5,2020,2025,6,CAPMAS
+754,Bread & Cereals,Giza,455.72,2020,2025,6,CAPMAS
+755,Bread & Cereals,Dakahlia,448.94,2020,2025,6,CAPMAS
+756,Bread & Cereals,Gharbiya,486.25,2020,2025,6,CAPMAS
+757,Meat & Poultry,National,230.0,2020,2022,1,CAPMAS
+758,Meat & Poultry,Cairo,230.5,2020,2022,1,CAPMAS
+759,Meat & Poultry,Alexandria,232.33,2020,2022,1,CAPMAS
+760,Meat & Poultry,Giza,221.42,2020,2022,1,CAPMAS
+761,Meat & Poultry,Dakahlia,236.13,2020,2022,1,CAPMAS
+762,Meat & Poultry,Gharbiya,236.2,2020,2022,1,CAPMAS
+763,Meat & Poultry,National,234.14,2020,2022,2,CAPMAS
+764,Meat & Poultry,Cairo,232.04,2020,2022,2,CAPMAS
+765,Meat & Poultry,Alexandria,228.01,2020,2022,2,CAPMAS
+766,Meat & Poultry,Giza,245.82,2020,2022,2,CAPMAS
+767,Meat & Poultry,Dakahlia,225.02,2020,2022,2,CAPMAS
+768,Meat & Poultry,Gharbiya,237.9,2020,2022,2,CAPMAS
+769,Meat & Poultry,National,238.35,2020,2022,3,CAPMAS
+770,Meat & Poultry,Cairo,239.1,2020,2022,3,CAPMAS
+771,Meat & Poultry,Alexandria,244.08,2020,2022,3,CAPMAS
+772,Meat & Poultry,Giza,241.46,2020,2022,3,CAPMAS
+773,Meat & Poultry,Dakahlia,243.88,2020,2022,3,CAPMAS
+774,Meat & Poultry,Gharbiya,243.87,2020,2022,3,CAPMAS
+775,Meat & Poultry,National,242.64,2020,2022,4,CAPMAS
+776,Meat & Poultry,Cairo,236.79,2020,2022,4,CAPMAS
+777,Meat & Poultry,Alexandria,254.74,2020,2022,4,CAPMAS
+778,Meat & Poultry,Giza,233.67,2020,2022,4,CAPMAS
+779,Meat & Poultry,Dakahlia,234.22,2020,2022,4,CAPMAS
+780,Meat & Poultry,Gharbiya,234.76,2020,2022,4,CAPMAS
+781,Meat & Poultry,National,247.01,2020,2022,5,CAPMAS
+782,Meat & Poultry,Cairo,238.56,2020,2022,5,CAPMAS
+783,Meat & Poultry,Alexandria,254.61,2020,2022,5,CAPMAS
+784,Meat & Poultry,Giza,256.36,2020,2022,5,CAPMAS
+785,Meat & Poultry,Dakahlia,239.18,2020,2022,5,CAPMAS
+786,Meat & Poultry,Gharbiya,244.86,2020,2022,5,CAPMAS
+787,Meat & Poultry,National,251.46,2020,2022,6,CAPMAS
+788,Meat & Poultry,Cairo,254.04,2020,2022,6,CAPMAS
+789,Meat & Poultry,Alexandria,251.25,2020,2022,6,CAPMAS
+790,Meat & Poultry,Giza,258.9,2020,2022,6,CAPMAS
+791,Meat & Poultry,Dakahlia,256.93,2020,2022,6,CAPMAS
+792,Meat & Poultry,Gharbiya,255.22,2020,2022,6,CAPMAS
+793,Meat & Poultry,National,255.98,2020,2022,7,CAPMAS
+794,Meat & Poultry,Cairo,260.34,2020,2022,7,CAPMAS
+795,Meat & Poultry,Alexandria,256.53,2020,2022,7,CAPMAS
+796,Meat & Poultry,Giza,251.82,2020,2022,7,CAPMAS
+797,Meat & Poultry,Dakahlia,267.85,2020,2022,7,CAPMAS
+798,Meat & Poultry,Gharbiya,259.79,2020,2022,7,CAPMAS
+799,Meat & Poultry,National,260.59,2020,2022,8,CAPMAS
+800,Meat & Poultry,Cairo,264.0,2020,2022,8,CAPMAS
+801,Meat & Poultry,Alexandria,269.93,2020,2022,8,CAPMAS
+802,Meat & Poultry,Giza,270.43,2020,2022,8,CAPMAS
+803,Meat & Poultry,Dakahlia,272.03,2020,2022,8,CAPMAS
+804,Meat & Poultry,Gharbiya,254.41,2020,2022,8,CAPMAS
+805,Meat & Poultry,National,265.28,2020,2022,9,CAPMAS
+806,Meat & Poultry,Cairo,263.33,2020,2022,9,CAPMAS
+807,Meat & Poultry,Alexandria,268.97,2020,2022,9,CAPMAS
+808,Meat & Poultry,Giza,255.57,2020,2022,9,CAPMAS
+809,Meat & Poultry,Dakahlia,254.91,2020,2022,9,CAPMAS
+810,Meat & Poultry,Gharbiya,275.22,2020,2022,9,CAPMAS
+811,Meat & Poultry,National,270.06,2020,2022,10,CAPMAS
+812,Meat & Poultry,Cairo,278.94,2020,2022,10,CAPMAS
+813,Meat & Poultry,Alexandria,264.91,2020,2022,10,CAPMAS
+814,Meat & Poultry,Giza,265.63,2020,2022,10,CAPMAS
+815,Meat & Poultry,Dakahlia,274.39,2020,2022,10,CAPMAS
+816,Meat & Poultry,Gharbiya,262.51,2020,2022,10,CAPMAS
+817,Meat & Poultry,National,274.92,2020,2022,11,CAPMAS
+818,Meat & Poultry,Cairo,267.51,2020,2022,11,CAPMAS
+819,Meat & Poultry,Alexandria,286.67,2020,2022,11,CAPMAS
+820,Meat & Poultry,Giza,275.96,2020,2022,11,CAPMAS
+821,Meat & Poultry,Dakahlia,282.72,2020,2022,11,CAPMAS
+822,Meat & Poultry,Gharbiya,265.28,2020,2022,11,CAPMAS
+823,Meat & Poultry,National,279.87,2020,2022,12,CAPMAS
+824,Meat & Poultry,Cairo,276.92,2020,2022,12,CAPMAS
+825,Meat & Poultry,Alexandria,276.38,2020,2022,12,CAPMAS
+826,Meat & Poultry,Giza,285.78,2020,2022,12,CAPMAS
+827,Meat & Poultry,Dakahlia,279.32,2020,2022,12,CAPMAS
+828,Meat & Poultry,Gharbiya,273.02,2020,2022,12,CAPMAS
+829,Meat & Poultry,National,284.91,2020,2023,1,CAPMAS
+830,Meat & Poultry,Cairo,289.33,2020,2023,1,CAPMAS
+831,Meat & Poultry,Alexandria,292.58,2020,2023,1,CAPMAS
+832,Meat & Poultry,Giza,292.52,2020,2023,1,CAPMAS
+833,Meat & Poultry,Dakahlia,280.28,2020,2023,1,CAPMAS
+834,Meat & Poultry,Gharbiya,291.31,2020,2023,1,CAPMAS
+835,Meat & Poultry,National,290.03,2020,2023,2,CAPMAS
+836,Meat & Poultry,Cairo,285.11,2020,2023,2,CAPMAS
+837,Meat & Poultry,Alexandria,298.99,2020,2023,2,CAPMAS
+838,Meat & Poultry,Giza,280.81,2020,2023,2,CAPMAS
+839,Meat & Poultry,Dakahlia,292.07,2020,2023,2,CAPMAS
+840,Meat & Poultry,Gharbiya,278.54,2020,2023,2,CAPMAS
+841,Meat & Poultry,National,295.25,2020,2023,3,CAPMAS
+842,Meat & Poultry,Cairo,286.65,2020,2023,3,CAPMAS
+843,Meat & Poultry,Alexandria,300.66,2020,2023,3,CAPMAS
+844,Meat & Poultry,Giza,292.44,2020,2023,3,CAPMAS
+845,Meat & Poultry,Dakahlia,294.21,2020,2023,3,CAPMAS
+846,Meat & Poultry,Gharbiya,290.79,2020,2023,3,CAPMAS
+847,Meat & Poultry,National,300.57,2020,2023,4,CAPMAS
+848,Meat & Poultry,Cairo,291.24,2020,2023,4,CAPMAS
+849,Meat & Poultry,Alexandria,314.67,2020,2023,4,CAPMAS
+850,Meat & Poultry,Giza,312.08,2020,2023,4,CAPMAS
+851,Meat & Poultry,Dakahlia,291.32,2020,2023,4,CAPMAS
+852,Meat & Poultry,Gharbiya,305.39,2020,2023,4,CAPMAS
+853,Meat & Poultry,National,305.98,2020,2023,5,CAPMAS
+854,Meat & Poultry,Cairo,314.75,2020,2023,5,CAPMAS
+855,Meat & Poultry,Alexandria,303.72,2020,2023,5,CAPMAS
+856,Meat & Poultry,Giza,303.89,2020,2023,5,CAPMAS
+857,Meat & Poultry,Dakahlia,320.63,2020,2023,5,CAPMAS
+858,Meat & Poultry,Gharbiya,298.07,2020,2023,5,CAPMAS
+859,Meat & Poultry,National,311.49,2020,2023,6,CAPMAS
+860,Meat & Poultry,Cairo,325.24,2020,2023,6,CAPMAS
+861,Meat & Poultry,Alexandria,312.22,2020,2023,6,CAPMAS
+862,Meat & Poultry,Giza,299.42,2020,2023,6,CAPMAS
+863,Meat & Poultry,Dakahlia,320.28,2020,2023,6,CAPMAS
+864,Meat & Poultry,Gharbiya,316.13,2020,2023,6,CAPMAS
+865,Meat & Poultry,National,317.09,2020,2023,7,CAPMAS
+866,Meat & Poultry,Cairo,311.32,2020,2023,7,CAPMAS
+867,Meat & Poultry,Alexandria,317.62,2020,2023,7,CAPMAS
+868,Meat & Poultry,Giza,330.01,2020,2023,7,CAPMAS
+869,Meat & Poultry,Dakahlia,327.69,2020,2023,7,CAPMAS
+870,Meat & Poultry,Gharbiya,308.68,2020,2023,7,CAPMAS
+871,Meat & Poultry,National,322.8,2020,2023,8,CAPMAS
+872,Meat & Poultry,Cairo,338.38,2020,2023,8,CAPMAS
+873,Meat & Poultry,Alexandria,316.29,2020,2023,8,CAPMAS
+874,Meat & Poultry,Giza,317.99,2020,2023,8,CAPMAS
+875,Meat & Poultry,Dakahlia,317.18,2020,2023,8,CAPMAS
+876,Meat & Poultry,Gharbiya,314.09,2020,2023,8,CAPMAS
+877,Meat & Poultry,National,328.61,2020,2023,9,CAPMAS
+878,Meat & Poultry,Cairo,337.31,2020,2023,9,CAPMAS
+879,Meat & Poultry,Alexandria,332.29,2020,2023,9,CAPMAS
+880,Meat & Poultry,Giza,339.06,2020,2023,9,CAPMAS
+881,Meat & Poultry,Dakahlia,329.74,2020,2023,9,CAPMAS
+882,Meat & Poultry,Gharbiya,332.5,2020,2023,9,CAPMAS
+883,Meat & Poultry,National,334.53,2020,2023,10,CAPMAS
+884,Meat & Poultry,Cairo,334.17,2020,2023,10,CAPMAS
+885,Meat & Poultry,Alexandria,349.54,2020,2023,10,CAPMAS
+886,Meat & Poultry,Giza,326.14,2020,2023,10,CAPMAS
+887,Meat & Poultry,Dakahlia,321.34,2020,2023,10,CAPMAS
+888,Meat & Poultry,Gharbiya,327.09,2020,2023,10,CAPMAS
+889,Meat & Poultry,National,340.55,2020,2023,11,CAPMAS
+890,Meat & Poultry,Cairo,333.75,2020,2023,11,CAPMAS
+891,Meat & Poultry,Alexandria,327.51,2020,2023,11,CAPMAS
+892,Meat & Poultry,Giza,339.81,2020,2023,11,CAPMAS
+893,Meat & Poultry,Dakahlia,334.87,2020,2023,11,CAPMAS
+894,Meat & Poultry,Gharbiya,348.1,2020,2023,11,CAPMAS
+895,Meat & Poultry,National,346.68,2020,2023,12,CAPMAS
+896,Meat & Poultry,Cairo,356.88,2020,2023,12,CAPMAS
+897,Meat & Poultry,Alexandria,355.29,2020,2023,12,CAPMAS
+898,Meat & Poultry,Giza,334.19,2020,2023,12,CAPMAS
+899,Meat & Poultry,Dakahlia,360.68,2020,2023,12,CAPMAS
+900,Meat & Poultry,Gharbiya,357.21,2020,2023,12,CAPMAS
+901,Meat & Poultry,National,352.92,2020,2024,1,CAPMAS
+902,Meat & Poultry,Cairo,344.22,2020,2024,1,CAPMAS
+903,Meat & Poultry,Alexandria,367.15,2020,2024,1,CAPMAS
+904,Meat & Poultry,Giza,340.13,2020,2024,1,CAPMAS
+905,Meat & Poultry,Dakahlia,366.05,2020,2024,1,CAPMAS
+906,Meat & Poultry,Gharbiya,355.99,2020,2024,1,CAPMAS
+907,Meat & Poultry,National,359.27,2020,2024,2,CAPMAS
+908,Meat & Poultry,Cairo,361.69,2020,2024,2,CAPMAS
+909,Meat & Poultry,Alexandria,350.95,2020,2024,2,CAPMAS
+910,Meat & Poultry,Giza,368.65,2020,2024,2,CAPMAS
+911,Meat & Poultry,Dakahlia,361.76,2020,2024,2,CAPMAS
+912,Meat & Poultry,Gharbiya,369.1,2020,2024,2,CAPMAS
+913,Meat & Poultry,National,365.74,2020,2024,3,CAPMAS
+914,Meat & Poultry,Cairo,370.09,2020,2024,3,CAPMAS
+915,Meat & Poultry,Alexandria,379.66,2020,2024,3,CAPMAS
+916,Meat & Poultry,Giza,375.77,2020,2024,3,CAPMAS
+917,Meat & Poultry,Dakahlia,351.88,2020,2024,3,CAPMAS
+918,Meat & Poultry,Gharbiya,365.19,2020,2024,3,CAPMAS
+919,Meat & Poultry,National,372.32,2020,2024,4,CAPMAS
+920,Meat & Poultry,Cairo,382.65,2020,2024,4,CAPMAS
+921,Meat & Poultry,Alexandria,378.54,2020,2024,4,CAPMAS
+922,Meat & Poultry,Giza,369.53,2020,2024,4,CAPMAS
+923,Meat & Poultry,Dakahlia,374.4,2020,2024,4,CAPMAS
+924,Meat & Poultry,Gharbiya,372.94,2020,2024,4,CAPMAS
+925,Meat & Poultry,National,379.02,2020,2024,5,CAPMAS
+926,Meat & Poultry,Cairo,371.28,2020,2024,5,CAPMAS
+927,Meat & Poultry,Alexandria,364.52,2020,2024,5,CAPMAS
+928,Meat & Poultry,Giza,365.92,2020,2024,5,CAPMAS
+929,Meat & Poultry,Dakahlia,375.87,2020,2024,5,CAPMAS
+930,Meat & Poultry,Gharbiya,368.4,2020,2024,5,CAPMAS
+931,Meat & Poultry,National,385.85,2020,2024,6,CAPMAS
+932,Meat & Poultry,Cairo,393.91,2020,2024,6,CAPMAS
+933,Meat & Poultry,Alexandria,384.93,2020,2024,6,CAPMAS
+934,Meat & Poultry,Giza,396.66,2020,2024,6,CAPMAS
+935,Meat & Poultry,Dakahlia,402.96,2020,2024,6,CAPMAS
+936,Meat & Poultry,Gharbiya,393.49,2020,2024,6,CAPMAS
+937,Meat & Poultry,National,392.79,2020,2024,7,CAPMAS
+938,Meat & Poultry,Cairo,411.44,2020,2024,7,CAPMAS
+939,Meat & Poultry,Alexandria,412.2,2020,2024,7,CAPMAS
+940,Meat & Poultry,Giza,390.27,2020,2024,7,CAPMAS
+941,Meat & Poultry,Dakahlia,377.79,2020,2024,7,CAPMAS
+942,Meat & Poultry,Gharbiya,380.06,2020,2024,7,CAPMAS
+943,Meat & Poultry,National,399.86,2020,2024,8,CAPMAS
+944,Meat & Poultry,Cairo,390.99,2020,2024,8,CAPMAS
+945,Meat & Poultry,Alexandria,388.75,2020,2024,8,CAPMAS
+946,Meat & Poultry,Giza,417.73,2020,2024,8,CAPMAS
+947,Meat & Poultry,Dakahlia,410.76,2020,2024,8,CAPMAS
+948,Meat & Poultry,Gharbiya,419.43,2020,2024,8,CAPMAS
+949,Meat & Poultry,National,407.06,2020,2024,9,CAPMAS
+950,Meat & Poultry,Cairo,398.66,2020,2024,9,CAPMAS
+951,Meat & Poultry,Alexandria,401.8,2020,2024,9,CAPMAS
+952,Meat & Poultry,Giza,394.27,2020,2024,9,CAPMAS
+953,Meat & Poultry,Dakahlia,423.91,2020,2024,9,CAPMAS
+954,Meat & Poultry,Gharbiya,401.24,2020,2024,9,CAPMAS
+955,Meat & Poultry,National,414.39,2020,2024,10,CAPMAS
+956,Meat & Poultry,Cairo,432.99,2020,2024,10,CAPMAS
+957,Meat & Poultry,Alexandria,415.6,2020,2024,10,CAPMAS
+958,Meat & Poultry,Giza,410.4,2020,2024,10,CAPMAS
+959,Meat & Poultry,Dakahlia,411.98,2020,2024,10,CAPMAS
+960,Meat & Poultry,Gharbiya,423.85,2020,2024,10,CAPMAS
+961,Meat & Poultry,National,421.84,2020,2024,11,CAPMAS
+962,Meat & Poultry,Cairo,424.3,2020,2024,11,CAPMAS
+963,Meat & Poultry,Alexandria,430.62,2020,2024,11,CAPMAS
+964,Meat & Poultry,Giza,413.0,2020,2024,11,CAPMAS
+965,Meat & Poultry,Dakahlia,423.48,2020,2024,11,CAPMAS
+966,Meat & Poultry,Gharbiya,413.94,2020,2024,11,CAPMAS
+967,Meat & Poultry,National,429.44,2020,2024,12,CAPMAS
+968,Meat & Poultry,Cairo,429.25,2020,2024,12,CAPMAS
+969,Meat & Poultry,Alexandria,435.07,2020,2024,12,CAPMAS
+970,Meat & Poultry,Giza,433.02,2020,2024,12,CAPMAS
+971,Meat & Poultry,Dakahlia,412.57,2020,2024,12,CAPMAS
+972,Meat & Poultry,Gharbiya,413.46,2020,2024,12,CAPMAS
+973,Meat & Poultry,National,437.17,2020,2025,1,CAPMAS
+974,Meat & Poultry,Cairo,451.51,2020,2025,1,CAPMAS
+975,Meat & Poultry,Alexandria,457.89,2020,2025,1,CAPMAS
+976,Meat & Poultry,Giza,432.78,2020,2025,1,CAPMAS
+977,Meat & Poultry,Dakahlia,439.59,2020,2025,1,CAPMAS
+978,Meat & Poultry,Gharbiya,440.91,2020,2025,1,CAPMAS
+979,Meat & Poultry,National,445.04,2020,2025,2,CAPMAS
+980,Meat & Poultry,Cairo,450.6,2020,2025,2,CAPMAS
+981,Meat & Poultry,Alexandria,456.82,2020,2025,2,CAPMAS
+982,Meat & Poultry,Giza,430.25,2020,2025,2,CAPMAS
+983,Meat & Poultry,Dakahlia,434.28,2020,2025,2,CAPMAS
+984,Meat & Poultry,Gharbiya,433.25,2020,2025,2,CAPMAS
+985,Meat & Poultry,National,453.05,2020,2025,3,CAPMAS
+986,Meat & Poultry,Cairo,466.85,2020,2025,3,CAPMAS
+987,Meat & Poultry,Alexandria,444.02,2020,2025,3,CAPMAS
+988,Meat & Poultry,Giza,461.8,2020,2025,3,CAPMAS
+989,Meat & Poultry,Dakahlia,459.87,2020,2025,3,CAPMAS
+990,Meat & Poultry,Gharbiya,467.59,2020,2025,3,CAPMAS
+991,Meat & Poultry,National,461.2,2020,2025,4,CAPMAS
+992,Meat & Poultry,Cairo,456.45,2020,2025,4,CAPMAS
+993,Meat & Poultry,Alexandria,471.31,2020,2025,4,CAPMAS
+994,Meat & Poultry,Giza,457.85,2020,2025,4,CAPMAS
+995,Meat & Poultry,Dakahlia,450.86,2020,2025,4,CAPMAS
+996,Meat & Poultry,Gharbiya,469.53,2020,2025,4,CAPMAS
+997,Meat & Poultry,National,469.5,2020,2025,5,CAPMAS
+998,Meat & Poultry,Cairo,484.19,2020,2025,5,CAPMAS
+999,Meat & Poultry,Alexandria,467.15,2020,2025,5,CAPMAS
+1000,Meat & Poultry,Giza,484.8,2020,2025,5,CAPMAS
+1001,Meat & Poultry,Dakahlia,464.76,2020,2025,5,CAPMAS
+1002,Meat & Poultry,Gharbiya,457.42,2020,2025,5,CAPMAS
+1003,Meat & Poultry,National,477.95,2020,2025,6,CAPMAS
+1004,Meat & Poultry,Cairo,472.93,2020,2025,6,CAPMAS
+1005,Meat & Poultry,Alexandria,475.33,2020,2025,6,CAPMAS
+1006,Meat & Poultry,Giza,499.24,2020,2025,6,CAPMAS
+1007,Meat & Poultry,Dakahlia,465.42,2020,2025,6,CAPMAS
+1008,Meat & Poultry,Gharbiya,482.13,2020,2025,6,CAPMAS
+1009,Vegetables,National,240.0,2020,2022,1,CAPMAS
+1010,Vegetables,Cairo,249.34,2020,2022,1,CAPMAS
+1011,Vegetables,Alexandria,234.84,2020,2022,1,CAPMAS
+1012,Vegetables,Giza,236.46,2020,2022,1,CAPMAS
+1013,Vegetables,Dakahlia,239.21,2020,2022,1,CAPMAS
+1014,Vegetables,Gharbiya,235.94,2020,2022,1,CAPMAS
+1015,Vegetables,National,244.32,2020,2022,2,CAPMAS
+1016,Vegetables,Cairo,240.46,2020,2022,2,CAPMAS
+1017,Vegetables,Alexandria,256.15,2020,2022,2,CAPMAS
+1018,Vegetables,Giza,247.48,2020,2022,2,CAPMAS
+1019,Vegetables,Dakahlia,249.66,2020,2022,2,CAPMAS
+1020,Vegetables,Gharbiya,243.05,2020,2022,2,CAPMAS
+1021,Vegetables,National,248.72,2020,2022,3,CAPMAS
+1022,Vegetables,Cairo,243.47,2020,2022,3,CAPMAS
+1023,Vegetables,Alexandria,240.04,2020,2022,3,CAPMAS
+1024,Vegetables,Giza,240.45,2020,2022,3,CAPMAS
+1025,Vegetables,Dakahlia,253.94,2020,2022,3,CAPMAS
+1026,Vegetables,Gharbiya,259.87,2020,2022,3,CAPMAS
+1027,Vegetables,National,253.19,2020,2022,4,CAPMAS
+1028,Vegetables,Cairo,244.07,2020,2022,4,CAPMAS
+1029,Vegetables,Alexandria,259.67,2020,2022,4,CAPMAS
+1030,Vegetables,Giza,256.06,2020,2022,4,CAPMAS
+1031,Vegetables,Dakahlia,261.23,2020,2022,4,CAPMAS
+1032,Vegetables,Gharbiya,247.67,2020,2022,4,CAPMAS
+1033,Vegetables,National,257.75,2020,2022,5,CAPMAS
+1034,Vegetables,Cairo,261.33,2020,2022,5,CAPMAS
+1035,Vegetables,Alexandria,255.32,2020,2022,5,CAPMAS
+1036,Vegetables,Giza,248.3,2020,2022,5,CAPMAS
+1037,Vegetables,Dakahlia,256.36,2020,2022,5,CAPMAS
+1038,Vegetables,Gharbiya,267.13,2020,2022,5,CAPMAS
+1039,Vegetables,National,262.39,2020,2022,6,CAPMAS
+1040,Vegetables,Cairo,256.61,2020,2022,6,CAPMAS
+1041,Vegetables,Alexandria,268.91,2020,2022,6,CAPMAS
+1042,Vegetables,Giza,266.45,2020,2022,6,CAPMAS
+1043,Vegetables,Dakahlia,253.56,2020,2022,6,CAPMAS
+1044,Vegetables,Gharbiya,255.34,2020,2022,6,CAPMAS
+1045,Vegetables,National,267.11,2020,2022,7,CAPMAS
+1046,Vegetables,Cairo,270.42,2020,2022,7,CAPMAS
+1047,Vegetables,Alexandria,280.46,2020,2022,7,CAPMAS
+1048,Vegetables,Giza,265.51,2020,2022,7,CAPMAS
+1049,Vegetables,Dakahlia,263.78,2020,2022,7,CAPMAS
+1050,Vegetables,Gharbiya,260.89,2020,2022,7,CAPMAS
+1051,Vegetables,National,271.92,2020,2022,8,CAPMAS
+1052,Vegetables,Cairo,273.45,2020,2022,8,CAPMAS
+1053,Vegetables,Alexandria,278.2,2020,2022,8,CAPMAS
+1054,Vegetables,Giza,280.5,2020,2022,8,CAPMAS
+1055,Vegetables,Dakahlia,263.63,2020,2022,8,CAPMAS
+1056,Vegetables,Gharbiya,262.44,2020,2022,8,CAPMAS
+1057,Vegetables,National,276.82,2020,2022,9,CAPMAS
+1058,Vegetables,Cairo,276.25,2020,2022,9,CAPMAS
+1059,Vegetables,Alexandria,270.5,2020,2022,9,CAPMAS
+1060,Vegetables,Giza,266.06,2020,2022,9,CAPMAS
+1061,Vegetables,Dakahlia,275.13,2020,2022,9,CAPMAS
+1062,Vegetables,Gharbiya,274.04,2020,2022,9,CAPMAS
+1063,Vegetables,National,281.8,2020,2022,10,CAPMAS
+1064,Vegetables,Cairo,294.71,2020,2022,10,CAPMAS
+1065,Vegetables,Alexandria,289.69,2020,2022,10,CAPMAS
+1066,Vegetables,Giza,293.68,2020,2022,10,CAPMAS
+1067,Vegetables,Dakahlia,278.54,2020,2022,10,CAPMAS
+1068,Vegetables,Gharbiya,271.4,2020,2022,10,CAPMAS
+1069,Vegetables,National,286.87,2020,2022,11,CAPMAS
+1070,Vegetables,Cairo,290.4,2020,2022,11,CAPMAS
+1071,Vegetables,Alexandria,291.23,2020,2022,11,CAPMAS
+1072,Vegetables,Giza,277.29,2020,2022,11,CAPMAS
+1073,Vegetables,Dakahlia,280.93,2020,2022,11,CAPMAS
+1074,Vegetables,Gharbiya,279.74,2020,2022,11,CAPMAS
+1075,Vegetables,National,292.04,2020,2022,12,CAPMAS
+1076,Vegetables,Cairo,294.25,2020,2022,12,CAPMAS
+1077,Vegetables,Alexandria,296.51,2020,2022,12,CAPMAS
+1078,Vegetables,Giza,298.1,2020,2022,12,CAPMAS
+1079,Vegetables,Dakahlia,301.99,2020,2022,12,CAPMAS
+1080,Vegetables,Gharbiya,298.16,2020,2022,12,CAPMAS
+1081,Vegetables,National,297.29,2020,2023,1,CAPMAS
+1082,Vegetables,Cairo,310.64,2020,2023,1,CAPMAS
+1083,Vegetables,Alexandria,309.2,2020,2023,1,CAPMAS
+1084,Vegetables,Giza,305.72,2020,2023,1,CAPMAS
+1085,Vegetables,Dakahlia,299.28,2020,2023,1,CAPMAS
+1086,Vegetables,Gharbiya,295.66,2020,2023,1,CAPMAS
+1087,Vegetables,National,302.64,2020,2023,2,CAPMAS
+1088,Vegetables,Cairo,291.38,2020,2023,2,CAPMAS
+1089,Vegetables,Alexandria,292.4,2020,2023,2,CAPMAS
+1090,Vegetables,Giza,314.62,2020,2023,2,CAPMAS
+1091,Vegetables,Dakahlia,290.63,2020,2023,2,CAPMAS
+1092,Vegetables,Gharbiya,293.24,2020,2023,2,CAPMAS
+1093,Vegetables,National,308.09,2020,2023,3,CAPMAS
+1094,Vegetables,Cairo,312.29,2020,2023,3,CAPMAS
+1095,Vegetables,Alexandria,300.6,2020,2023,3,CAPMAS
+1096,Vegetables,Giza,322.35,2020,2023,3,CAPMAS
+1097,Vegetables,Dakahlia,315.29,2020,2023,3,CAPMAS
+1098,Vegetables,Gharbiya,296.48,2020,2023,3,CAPMAS
+1099,Vegetables,National,313.64,2020,2023,4,CAPMAS
+1100,Vegetables,Cairo,323.11,2020,2023,4,CAPMAS
+1101,Vegetables,Alexandria,312.78,2020,2023,4,CAPMAS
+1102,Vegetables,Giza,301.92,2020,2023,4,CAPMAS
+1103,Vegetables,Dakahlia,319.45,2020,2023,4,CAPMAS
+1104,Vegetables,Gharbiya,328.8,2020,2023,4,CAPMAS
+1105,Vegetables,National,319.28,2020,2023,5,CAPMAS
+1106,Vegetables,Cairo,325.54,2020,2023,5,CAPMAS
+1107,Vegetables,Alexandria,314.73,2020,2023,5,CAPMAS
+1108,Vegetables,Giza,328.98,2020,2023,5,CAPMAS
+1109,Vegetables,Dakahlia,314.32,2020,2023,5,CAPMAS
+1110,Vegetables,Gharbiya,329.56,2020,2023,5,CAPMAS
+1111,Vegetables,National,325.03,2020,2023,6,CAPMAS
+1112,Vegetables,Cairo,326.3,2020,2023,6,CAPMAS
+1113,Vegetables,Alexandria,334.83,2020,2023,6,CAPMAS
+1114,Vegetables,Giza,336.61,2020,2023,6,CAPMAS
+1115,Vegetables,Dakahlia,317.11,2020,2023,6,CAPMAS
+1116,Vegetables,Gharbiya,337.15,2020,2023,6,CAPMAS
+1117,Vegetables,National,330.88,2020,2023,7,CAPMAS
+1118,Vegetables,Cairo,338.91,2020,2023,7,CAPMAS
+1119,Vegetables,Alexandria,332.37,2020,2023,7,CAPMAS
+1120,Vegetables,Giza,332.41,2020,2023,7,CAPMAS
+1121,Vegetables,Dakahlia,330.05,2020,2023,7,CAPMAS
+1122,Vegetables,Gharbiya,343.37,2020,2023,7,CAPMAS
+1123,Vegetables,National,336.84,2020,2023,8,CAPMAS
+1124,Vegetables,Cairo,347.05,2020,2023,8,CAPMAS
+1125,Vegetables,Alexandria,330.15,2020,2023,8,CAPMAS
+1126,Vegetables,Giza,351.95,2020,2023,8,CAPMAS
+1127,Vegetables,Dakahlia,345.05,2020,2023,8,CAPMAS
+1128,Vegetables,Gharbiya,325.67,2020,2023,8,CAPMAS
+1129,Vegetables,National,342.9,2020,2023,9,CAPMAS
+1130,Vegetables,Cairo,357.65,2020,2023,9,CAPMAS
+1131,Vegetables,Alexandria,330.88,2020,2023,9,CAPMAS
+1132,Vegetables,Giza,338.58,2020,2023,9,CAPMAS
+1133,Vegetables,Dakahlia,345.0,2020,2023,9,CAPMAS
+1134,Vegetables,Gharbiya,338.35,2020,2023,9,CAPMAS
+1135,Vegetables,National,349.07,2020,2023,10,CAPMAS
+1136,Vegetables,Cairo,342.67,2020,2023,10,CAPMAS
+1137,Vegetables,Alexandria,359.33,2020,2023,10,CAPMAS
+1138,Vegetables,Giza,366.0,2020,2023,10,CAPMAS
+1139,Vegetables,Dakahlia,353.01,2020,2023,10,CAPMAS
+1140,Vegetables,Gharbiya,350.45,2020,2023,10,CAPMAS
+1141,Vegetables,National,355.35,2020,2023,11,CAPMAS
+1142,Vegetables,Cairo,371.79,2020,2023,11,CAPMAS
+1143,Vegetables,Alexandria,353.15,2020,2023,11,CAPMAS
+1144,Vegetables,Giza,364.03,2020,2023,11,CAPMAS
+1145,Vegetables,Dakahlia,349.5,2020,2023,11,CAPMAS
+1146,Vegetables,Gharbiya,344.89,2020,2023,11,CAPMAS
+1147,Vegetables,National,361.75,2020,2023,12,CAPMAS
+1148,Vegetables,Cairo,351.24,2020,2023,12,CAPMAS
+1149,Vegetables,Alexandria,372.0,2020,2023,12,CAPMAS
+1150,Vegetables,Giza,348.35,2020,2023,12,CAPMAS
+1151,Vegetables,Dakahlia,373.68,2020,2023,12,CAPMAS
+1152,Vegetables,Gharbiya,374.9,2020,2023,12,CAPMAS
+1153,Vegetables,National,368.26,2020,2024,1,CAPMAS
+1154,Vegetables,Cairo,369.19,2020,2024,1,CAPMAS
+1155,Vegetables,Alexandria,368.86,2020,2024,1,CAPMAS
+1156,Vegetables,Giza,373.36,2020,2024,1,CAPMAS
+1157,Vegetables,Dakahlia,377.17,2020,2024,1,CAPMAS
+1158,Vegetables,Gharbiya,376.48,2020,2024,1,CAPMAS
+1159,Vegetables,National,374.89,2020,2024,2,CAPMAS
+1160,Vegetables,Cairo,367.6,2020,2024,2,CAPMAS
+1161,Vegetables,Alexandria,364.05,2020,2024,2,CAPMAS
+1162,Vegetables,Giza,392.44,2020,2024,2,CAPMAS
+1163,Vegetables,Dakahlia,371.93,2020,2024,2,CAPMAS
+1164,Vegetables,Gharbiya,383.23,2020,2024,2,CAPMAS
+1165,Vegetables,National,381.64,2020,2024,3,CAPMAS
+1166,Vegetables,Cairo,376.99,2020,2024,3,CAPMAS
+1167,Vegetables,Alexandria,366.63,2020,2024,3,CAPMAS
+1168,Vegetables,Giza,368.34,2020,2024,3,CAPMAS
+1169,Vegetables,Dakahlia,389.94,2020,2024,3,CAPMAS
+1170,Vegetables,Gharbiya,370.05,2020,2024,3,CAPMAS
+1171,Vegetables,National,388.51,2020,2024,4,CAPMAS
+1172,Vegetables,Cairo,375.49,2020,2024,4,CAPMAS
+1173,Vegetables,Alexandria,391.43,2020,2024,4,CAPMAS
+1174,Vegetables,Giza,388.63,2020,2024,4,CAPMAS
+1175,Vegetables,Dakahlia,399.24,2020,2024,4,CAPMAS
+1176,Vegetables,Gharbiya,383.75,2020,2024,4,CAPMAS
+1177,Vegetables,National,395.5,2020,2024,5,CAPMAS
+1178,Vegetables,Cairo,404.71,2020,2024,5,CAPMAS
+1179,Vegetables,Alexandria,410.6,2020,2024,5,CAPMAS
+1180,Vegetables,Giza,397.26,2020,2024,5,CAPMAS
+1181,Vegetables,Dakahlia,390.88,2020,2024,5,CAPMAS
+1182,Vegetables,Gharbiya,399.06,2020,2024,5,CAPMAS
+1183,Vegetables,National,402.62,2020,2024,6,CAPMAS
+1184,Vegetables,Cairo,389.84,2020,2024,6,CAPMAS
+1185,Vegetables,Alexandria,389.39,2020,2024,6,CAPMAS
+1186,Vegetables,Giza,398.02,2020,2024,6,CAPMAS
+1187,Vegetables,Dakahlia,415.94,2020,2024,6,CAPMAS
+1188,Vegetables,Gharbiya,387.39,2020,2024,6,CAPMAS
+1189,Vegetables,National,409.87,2020,2024,7,CAPMAS
+1190,Vegetables,Cairo,401.54,2020,2024,7,CAPMAS
+1191,Vegetables,Alexandria,425.09,2020,2024,7,CAPMAS
+1192,Vegetables,Giza,397.77,2020,2024,7,CAPMAS
+1193,Vegetables,Dakahlia,406.17,2020,2024,7,CAPMAS
+1194,Vegetables,Gharbiya,425.4,2020,2024,7,CAPMAS
+1195,Vegetables,National,417.25,2020,2024,8,CAPMAS
+1196,Vegetables,Cairo,406.85,2020,2024,8,CAPMAS
+1197,Vegetables,Alexandria,415.44,2020,2024,8,CAPMAS
+1198,Vegetables,Giza,421.34,2020,2024,8,CAPMAS
+1199,Vegetables,Dakahlia,421.83,2020,2024,8,CAPMAS
+1200,Vegetables,Gharbiya,400.92,2020,2024,8,CAPMAS
+1201,Vegetables,National,424.76,2020,2024,9,CAPMAS
+1202,Vegetables,Cairo,420.92,2020,2024,9,CAPMAS
+1203,Vegetables,Alexandria,411.47,2020,2024,9,CAPMAS
+1204,Vegetables,Giza,409.4,2020,2024,9,CAPMAS
+1205,Vegetables,Dakahlia,444.99,2020,2024,9,CAPMAS
+1206,Vegetables,Gharbiya,439.33,2020,2024,9,CAPMAS
+1207,Vegetables,National,432.4,2020,2024,10,CAPMAS
+1208,Vegetables,Cairo,432.99,2020,2024,10,CAPMAS
+1209,Vegetables,Alexandria,440.74,2020,2024,10,CAPMAS
+1210,Vegetables,Giza,422.14,2020,2024,10,CAPMAS
+1211,Vegetables,Dakahlia,427.71,2020,2024,10,CAPMAS
+1212,Vegetables,Gharbiya,423.88,2020,2024,10,CAPMAS
+1213,Vegetables,National,440.19,2020,2024,11,CAPMAS
+1214,Vegetables,Cairo,456.95,2020,2024,11,CAPMAS
+1215,Vegetables,Alexandria,429.31,2020,2024,11,CAPMAS
+1216,Vegetables,Giza,430.31,2020,2024,11,CAPMAS
+1217,Vegetables,Dakahlia,448.43,2020,2024,11,CAPMAS
+1218,Vegetables,Gharbiya,425.56,2020,2024,11,CAPMAS
+1219,Vegetables,National,448.11,2020,2024,12,CAPMAS
+1220,Vegetables,Cairo,456.9,2020,2024,12,CAPMAS
+1221,Vegetables,Alexandria,468.7,2020,2024,12,CAPMAS
+1222,Vegetables,Giza,437.31,2020,2024,12,CAPMAS
+1223,Vegetables,Dakahlia,464.49,2020,2024,12,CAPMAS
+1224,Vegetables,Gharbiya,456.51,2020,2024,12,CAPMAS
+1225,Vegetables,National,456.17,2020,2025,1,CAPMAS
+1226,Vegetables,Cairo,460.92,2020,2025,1,CAPMAS
+1227,Vegetables,Alexandria,472.71,2020,2025,1,CAPMAS
+1228,Vegetables,Giza,472.1,2020,2025,1,CAPMAS
+1229,Vegetables,Dakahlia,450.72,2020,2025,1,CAPMAS
+1230,Vegetables,Gharbiya,440.99,2020,2025,1,CAPMAS
+1231,Vegetables,National,464.39,2020,2025,2,CAPMAS
+1232,Vegetables,Cairo,484.09,2020,2025,2,CAPMAS
+1233,Vegetables,Alexandria,457.4,2020,2025,2,CAPMAS
+1234,Vegetables,Giza,471.57,2020,2025,2,CAPMAS
+1235,Vegetables,Dakahlia,449.26,2020,2025,2,CAPMAS
+1236,Vegetables,Gharbiya,475.26,2020,2025,2,CAPMAS
+1237,Vegetables,National,472.74,2020,2025,3,CAPMAS
+1238,Vegetables,Cairo,488.55,2020,2025,3,CAPMAS
+1239,Vegetables,Alexandria,455.36,2020,2025,3,CAPMAS
+1240,Vegetables,Giza,473.63,2020,2025,3,CAPMAS
+1241,Vegetables,Dakahlia,459.91,2020,2025,3,CAPMAS
+1242,Vegetables,Gharbiya,474.72,2020,2025,3,CAPMAS
+1243,Vegetables,National,481.25,2020,2025,4,CAPMAS
+1244,Vegetables,Cairo,463.57,2020,2025,4,CAPMAS
+1245,Vegetables,Alexandria,494.18,2020,2025,4,CAPMAS
+1246,Vegetables,Giza,477.79,2020,2025,4,CAPMAS
+1247,Vegetables,Dakahlia,492.15,2020,2025,4,CAPMAS
+1248,Vegetables,Gharbiya,486.75,2020,2025,4,CAPMAS
+1249,Vegetables,National,489.92,2020,2025,5,CAPMAS
+1250,Vegetables,Cairo,494.64,2020,2025,5,CAPMAS
+1251,Vegetables,Alexandria,489.46,2020,2025,5,CAPMAS
+1252,Vegetables,Giza,507.47,2020,2025,5,CAPMAS
+1253,Vegetables,Dakahlia,479.35,2020,2025,5,CAPMAS
+1254,Vegetables,Gharbiya,500.54,2020,2025,5,CAPMAS
+1255,Vegetables,National,498.74,2020,2025,6,CAPMAS
+1256,Vegetables,Cairo,518.52,2020,2025,6,CAPMAS
+1257,Vegetables,Alexandria,489.06,2020,2025,6,CAPMAS
+1258,Vegetables,Giza,521.91,2020,2025,6,CAPMAS
+1259,Vegetables,Dakahlia,495.06,2020,2025,6,CAPMAS
+1260,Vegetables,Gharbiya,483.82,2020,2025,6,CAPMAS
+1261,Oils & Fats,National,310.0,2020,2022,1,CAPMAS
+1262,Oils & Fats,Cairo,308.82,2020,2022,1,CAPMAS
+1263,Oils & Fats,Alexandria,302.83,2020,2022,1,CAPMAS
+1264,Oils & Fats,Giza,301.28,2020,2022,1,CAPMAS
+1265,Oils & Fats,Dakahlia,324.78,2020,2022,1,CAPMAS
+1266,Oils & Fats,Gharbiya,298.6,2020,2022,1,CAPMAS
+1267,Oils & Fats,National,315.58,2020,2022,2,CAPMAS
+1268,Oils & Fats,Cairo,326.9,2020,2022,2,CAPMAS
+1269,Oils & Fats,Alexandria,319.32,2020,2022,2,CAPMAS
+1270,Oils & Fats,Giza,313.69,2020,2022,2,CAPMAS
+1271,Oils & Fats,Dakahlia,306.35,2020,2022,2,CAPMAS
+1272,Oils & Fats,Gharbiya,309.89,2020,2022,2,CAPMAS
+1273,Oils & Fats,National,321.26,2020,2022,3,CAPMAS
+1274,Oils & Fats,Cairo,333.81,2020,2022,3,CAPMAS
+1275,Oils & Fats,Alexandria,318.91,2020,2022,3,CAPMAS
+1276,Oils & Fats,Giza,310.57,2020,2022,3,CAPMAS
+1277,Oils & Fats,Dakahlia,329.49,2020,2022,3,CAPMAS
+1278,Oils & Fats,Gharbiya,318.18,2020,2022,3,CAPMAS
+1279,Oils & Fats,National,327.04,2020,2022,4,CAPMAS
+1280,Oils & Fats,Cairo,320.05,2020,2022,4,CAPMAS
+1281,Oils & Fats,Alexandria,333.31,2020,2022,4,CAPMAS
+1282,Oils & Fats,Giza,314.82,2020,2022,4,CAPMAS
+1283,Oils & Fats,Dakahlia,325.61,2020,2022,4,CAPMAS
+1284,Oils & Fats,Gharbiya,319.93,2020,2022,4,CAPMAS
+1285,Oils & Fats,National,332.93,2020,2022,5,CAPMAS
+1286,Oils & Fats,Cairo,345.53,2020,2022,5,CAPMAS
+1287,Oils & Fats,Alexandria,347.61,2020,2022,5,CAPMAS
+1288,Oils & Fats,Giza,344.63,2020,2022,5,CAPMAS
+1289,Oils & Fats,Dakahlia,344.39,2020,2022,5,CAPMAS
+1290,Oils & Fats,Gharbiya,324.1,2020,2022,5,CAPMAS
+1291,Oils & Fats,National,338.92,2020,2022,6,CAPMAS
+1292,Oils & Fats,Cairo,355.12,2020,2022,6,CAPMAS
+1293,Oils & Fats,Alexandria,339.94,2020,2022,6,CAPMAS
+1294,Oils & Fats,Giza,328.21,2020,2022,6,CAPMAS
+1295,Oils & Fats,Dakahlia,351.06,2020,2022,6,CAPMAS
+1296,Oils & Fats,Gharbiya,335.67,2020,2022,6,CAPMAS
+1297,Oils & Fats,National,345.02,2020,2022,7,CAPMAS
+1298,Oils & Fats,Cairo,350.84,2020,2022,7,CAPMAS
+1299,Oils & Fats,Alexandria,344.25,2020,2022,7,CAPMAS
+1300,Oils & Fats,Giza,341.7,2020,2022,7,CAPMAS
+1301,Oils & Fats,Dakahlia,338.56,2020,2022,7,CAPMAS
+1302,Oils & Fats,Gharbiya,332.77,2020,2022,7,CAPMAS
+1303,Oils & Fats,National,351.23,2020,2022,8,CAPMAS
+1304,Oils & Fats,Cairo,362.32,2020,2022,8,CAPMAS
+1305,Oils & Fats,Alexandria,344.3,2020,2022,8,CAPMAS
+1306,Oils & Fats,Giza,368.17,2020,2022,8,CAPMAS
+1307,Oils & Fats,Dakahlia,367.4,2020,2022,8,CAPMAS
+1308,Oils & Fats,Gharbiya,348.62,2020,2022,8,CAPMAS
+1309,Oils & Fats,National,357.56,2020,2022,9,CAPMAS
+1310,Oils & Fats,Cairo,352.2,2020,2022,9,CAPMAS
+1311,Oils & Fats,Alexandria,350.38,2020,2022,9,CAPMAS
+1312,Oils & Fats,Giza,346.51,2020,2022,9,CAPMAS
+1313,Oils & Fats,Dakahlia,353.56,2020,2022,9,CAPMAS
+1314,Oils & Fats,Gharbiya,359.49,2020,2022,9,CAPMAS
+1315,Oils & Fats,National,363.99,2020,2022,10,CAPMAS
+1316,Oils & Fats,Cairo,372.45,2020,2022,10,CAPMAS
+1317,Oils & Fats,Alexandria,350.34,2020,2022,10,CAPMAS
+1318,Oils & Fats,Giza,367.53,2020,2022,10,CAPMAS
+1319,Oils & Fats,Dakahlia,352.77,2020,2022,10,CAPMAS
+1320,Oils & Fats,Gharbiya,354.07,2020,2022,10,CAPMAS
+1321,Oils & Fats,National,370.54,2020,2022,11,CAPMAS
+1322,Oils & Fats,Cairo,368.3,2020,2022,11,CAPMAS
+1323,Oils & Fats,Alexandria,367.74,2020,2022,11,CAPMAS
+1324,Oils & Fats,Giza,358.8,2020,2022,11,CAPMAS
+1325,Oils & Fats,Dakahlia,366.06,2020,2022,11,CAPMAS
+1326,Oils & Fats,Gharbiya,373.04,2020,2022,11,CAPMAS
+1327,Oils & Fats,National,377.21,2020,2022,12,CAPMAS
+1328,Oils & Fats,Cairo,384.13,2020,2022,12,CAPMAS
+1329,Oils & Fats,Alexandria,371.22,2020,2022,12,CAPMAS
+1330,Oils & Fats,Giza,374.44,2020,2022,12,CAPMAS
+1331,Oils & Fats,Dakahlia,394.89,2020,2022,12,CAPMAS
+1332,Oils & Fats,Gharbiya,388.66,2020,2022,12,CAPMAS
+1333,Oils & Fats,National,384.0,2020,2023,1,CAPMAS
+1334,Oils & Fats,Cairo,376.42,2020,2023,1,CAPMAS
+1335,Oils & Fats,Alexandria,377.48,2020,2023,1,CAPMAS
+1336,Oils & Fats,Giza,390.52,2020,2023,1,CAPMAS
+1337,Oils & Fats,Dakahlia,402.7,2020,2023,1,CAPMAS
+1338,Oils & Fats,Gharbiya,398.61,2020,2023,1,CAPMAS
+1339,Oils & Fats,National,390.92,2020,2023,2,CAPMAS
+1340,Oils & Fats,Cairo,387.98,2020,2023,2,CAPMAS
+1341,Oils & Fats,Alexandria,400.5,2020,2023,2,CAPMAS
+1342,Oils & Fats,Giza,400.84,2020,2023,2,CAPMAS
+1343,Oils & Fats,Dakahlia,408.73,2020,2023,2,CAPMAS
+1344,Oils & Fats,Gharbiya,388.95,2020,2023,2,CAPMAS
+1345,Oils & Fats,National,397.95,2020,2023,3,CAPMAS
+1346,Oils & Fats,Cairo,408.64,2020,2023,3,CAPMAS
+1347,Oils & Fats,Alexandria,405.06,2020,2023,3,CAPMAS
+1348,Oils & Fats,Giza,384.13,2020,2023,3,CAPMAS
+1349,Oils & Fats,Dakahlia,400.01,2020,2023,3,CAPMAS
+1350,Oils & Fats,Gharbiya,409.35,2020,2023,3,CAPMAS
+1351,Oils & Fats,National,405.12,2020,2023,4,CAPMAS
+1352,Oils & Fats,Cairo,422.27,2020,2023,4,CAPMAS
+1353,Oils & Fats,Alexandria,389.69,2020,2023,4,CAPMAS
+1354,Oils & Fats,Giza,396.7,2020,2023,4,CAPMAS
+1355,Oils & Fats,Dakahlia,389.0,2020,2023,4,CAPMAS
+1356,Oils & Fats,Gharbiya,402.6,2020,2023,4,CAPMAS
+1357,Oils & Fats,National,412.41,2020,2023,5,CAPMAS
+1358,Oils & Fats,Cairo,408.83,2020,2023,5,CAPMAS
+1359,Oils & Fats,Alexandria,418.19,2020,2023,5,CAPMAS
+1360,Oils & Fats,Giza,416.24,2020,2023,5,CAPMAS
+1361,Oils & Fats,Dakahlia,418.33,2020,2023,5,CAPMAS
+1362,Oils & Fats,Gharbiya,410.98,2020,2023,5,CAPMAS
+1363,Oils & Fats,National,419.83,2020,2023,6,CAPMAS
+1364,Oils & Fats,Cairo,403.63,2020,2023,6,CAPMAS
+1365,Oils & Fats,Alexandria,425.47,2020,2023,6,CAPMAS
+1366,Oils & Fats,Giza,435.22,2020,2023,6,CAPMAS
+1367,Oils & Fats,Dakahlia,431.97,2020,2023,6,CAPMAS
+1368,Oils & Fats,Gharbiya,404.26,2020,2023,6,CAPMAS
+1369,Oils & Fats,National,427.39,2020,2023,7,CAPMAS
+1370,Oils & Fats,Cairo,447.57,2020,2023,7,CAPMAS
+1371,Oils & Fats,Alexandria,414.91,2020,2023,7,CAPMAS
+1372,Oils & Fats,Giza,448.11,2020,2023,7,CAPMAS
+1373,Oils & Fats,Dakahlia,432.54,2020,2023,7,CAPMAS
+1374,Oils & Fats,Gharbiya,416.51,2020,2023,7,CAPMAS
+1375,Oils & Fats,National,435.08,2020,2023,8,CAPMAS
+1376,Oils & Fats,Cairo,449.58,2020,2023,8,CAPMAS
+1377,Oils & Fats,Alexandria,435.75,2020,2023,8,CAPMAS
+1378,Oils & Fats,Giza,442.5,2020,2023,8,CAPMAS
+1379,Oils & Fats,Dakahlia,449.1,2020,2023,8,CAPMAS
+1380,Oils & Fats,Gharbiya,428.66,2020,2023,8,CAPMAS
+1381,Oils & Fats,National,442.91,2020,2023,9,CAPMAS
+1382,Oils & Fats,Cairo,428.95,2020,2023,9,CAPMAS
+1383,Oils & Fats,Alexandria,440.8,2020,2023,9,CAPMAS
+1384,Oils & Fats,Giza,431.55,2020,2023,9,CAPMAS
+1385,Oils & Fats,Dakahlia,430.99,2020,2023,9,CAPMAS
+1386,Oils & Fats,Gharbiya,450.6,2020,2023,9,CAPMAS
+1387,Oils & Fats,National,450.88,2020,2023,10,CAPMAS
+1388,Oils & Fats,Cairo,453.75,2020,2023,10,CAPMAS
+1389,Oils & Fats,Alexandria,471.23,2020,2023,10,CAPMAS
+1390,Oils & Fats,Giza,473.08,2020,2023,10,CAPMAS
+1391,Oils & Fats,Dakahlia,462.6,2020,2023,10,CAPMAS
+1392,Oils & Fats,Gharbiya,460.19,2020,2023,10,CAPMAS
+1393,Oils & Fats,National,459.0,2020,2023,11,CAPMAS
+1394,Oils & Fats,Cairo,454.92,2020,2023,11,CAPMAS
+1395,Oils & Fats,Alexandria,462.86,2020,2023,11,CAPMAS
+1396,Oils & Fats,Giza,471.35,2020,2023,11,CAPMAS
+1397,Oils & Fats,Dakahlia,466.93,2020,2023,11,CAPMAS
+1398,Oils & Fats,Gharbiya,474.99,2020,2023,11,CAPMAS
+1399,Oils & Fats,National,467.26,2020,2023,12,CAPMAS
+1400,Oils & Fats,Cairo,475.44,2020,2023,12,CAPMAS
+1401,Oils & Fats,Alexandria,481.56,2020,2023,12,CAPMAS
+1402,Oils & Fats,Giza,455.49,2020,2023,12,CAPMAS
+1403,Oils & Fats,Dakahlia,454.55,2020,2023,12,CAPMAS
+1404,Oils & Fats,Gharbiya,448.72,2020,2023,12,CAPMAS
+1405,Oils & Fats,National,475.67,2020,2024,1,CAPMAS
+1406,Oils & Fats,Cairo,492.83,2020,2024,1,CAPMAS
+1407,Oils & Fats,Alexandria,497.13,2020,2024,1,CAPMAS
+1408,Oils & Fats,Giza,498.56,2020,2024,1,CAPMAS
+1409,Oils & Fats,Dakahlia,460.08,2020,2024,1,CAPMAS
+1410,Oils & Fats,Gharbiya,457.92,2020,2024,1,CAPMAS
+1411,Oils & Fats,National,484.23,2020,2024,2,CAPMAS
+1412,Oils & Fats,Cairo,474.77,2020,2024,2,CAPMAS
+1413,Oils & Fats,Alexandria,498.98,2020,2024,2,CAPMAS
+1414,Oils & Fats,Giza,479.65,2020,2024,2,CAPMAS
+1415,Oils & Fats,Dakahlia,477.25,2020,2024,2,CAPMAS
+1416,Oils & Fats,Gharbiya,481.27,2020,2024,2,CAPMAS
+1417,Oils & Fats,National,492.95,2020,2024,3,CAPMAS
+1418,Oils & Fats,Cairo,486.34,2020,2024,3,CAPMAS
+1419,Oils & Fats,Alexandria,484.44,2020,2024,3,CAPMAS
+1420,Oils & Fats,Giza,508.07,2020,2024,3,CAPMAS
+1421,Oils & Fats,Dakahlia,505.29,2020,2024,3,CAPMAS
+1422,Oils & Fats,Gharbiya,504.76,2020,2024,3,CAPMAS
+1423,Oils & Fats,National,501.82,2020,2024,4,CAPMAS
+1424,Oils & Fats,Cairo,515.45,2020,2024,4,CAPMAS
+1425,Oils & Fats,Alexandria,486.94,2020,2024,4,CAPMAS
+1426,Oils & Fats,Giza,522.71,2020,2024,4,CAPMAS
+1427,Oils & Fats,Dakahlia,524.0,2020,2024,4,CAPMAS
+1428,Oils & Fats,Gharbiya,524.1,2020,2024,4,CAPMAS
+1429,Oils & Fats,National,510.86,2020,2024,5,CAPMAS
+1430,Oils & Fats,Cairo,505.93,2020,2024,5,CAPMAS
+1431,Oils & Fats,Alexandria,493.39,2020,2024,5,CAPMAS
+1432,Oils & Fats,Giza,504.06,2020,2024,5,CAPMAS
+1433,Oils & Fats,Dakahlia,517.11,2020,2024,5,CAPMAS
+1434,Oils & Fats,Gharbiya,506.75,2020,2024,5,CAPMAS
+1435,Oils & Fats,National,520.05,2020,2024,6,CAPMAS
+1436,Oils & Fats,Cairo,544.05,2020,2024,6,CAPMAS
+1437,Oils & Fats,Alexandria,544.22,2020,2024,6,CAPMAS
+1438,Oils & Fats,Giza,501.58,2020,2024,6,CAPMAS
+1439,Oils & Fats,Dakahlia,528.65,2020,2024,6,CAPMAS
+1440,Oils & Fats,Gharbiya,541.27,2020,2024,6,CAPMAS
+1441,Oils & Fats,National,529.41,2020,2024,7,CAPMAS
+1442,Oils & Fats,Cairo,554.93,2020,2024,7,CAPMAS
+1443,Oils & Fats,Alexandria,542.49,2020,2024,7,CAPMAS
+1444,Oils & Fats,Giza,524.91,2020,2024,7,CAPMAS
+1445,Oils & Fats,Dakahlia,530.65,2020,2024,7,CAPMAS
+1446,Oils & Fats,Gharbiya,554.64,2020,2024,7,CAPMAS
+1447,Oils & Fats,National,538.94,2020,2024,8,CAPMAS
+1448,Oils & Fats,Cairo,537.98,2020,2024,8,CAPMAS
+1449,Oils & Fats,Alexandria,561.88,2020,2024,8,CAPMAS
+1450,Oils & Fats,Giza,523.94,2020,2024,8,CAPMAS
+1451,Oils & Fats,Dakahlia,539.16,2020,2024,8,CAPMAS
+1452,Oils & Fats,Gharbiya,524.12,2020,2024,8,CAPMAS
+1453,Oils & Fats,National,548.64,2020,2024,9,CAPMAS
+1454,Oils & Fats,Cairo,539.25,2020,2024,9,CAPMAS
+1455,Oils & Fats,Alexandria,547.08,2020,2024,9,CAPMAS
+1456,Oils & Fats,Giza,531.28,2020,2024,9,CAPMAS
+1457,Oils & Fats,Dakahlia,573.8,2020,2024,9,CAPMAS
+1458,Oils & Fats,Gharbiya,556.82,2020,2024,9,CAPMAS
+1459,Oils & Fats,National,558.52,2020,2024,10,CAPMAS
+1460,Oils & Fats,Cairo,564.6,2020,2024,10,CAPMAS
+1461,Oils & Fats,Alexandria,583.45,2020,2024,10,CAPMAS
+1462,Oils & Fats,Giza,549.3,2020,2024,10,CAPMAS
+1463,Oils & Fats,Dakahlia,539.03,2020,2024,10,CAPMAS
+1464,Oils & Fats,Gharbiya,562.39,2020,2024,10,CAPMAS
+1465,Oils & Fats,National,568.57,2020,2024,11,CAPMAS
+1466,Oils & Fats,Cairo,559.34,2020,2024,11,CAPMAS
+1467,Oils & Fats,Alexandria,567.86,2020,2024,11,CAPMAS
+1468,Oils & Fats,Giza,561.03,2020,2024,11,CAPMAS
+1469,Oils & Fats,Dakahlia,547.94,2020,2024,11,CAPMAS
+1470,Oils & Fats,Gharbiya,588.61,2020,2024,11,CAPMAS
+1471,Oils & Fats,National,578.81,2020,2024,12,CAPMAS
+1472,Oils & Fats,Cairo,577.45,2020,2024,12,CAPMAS
+1473,Oils & Fats,Alexandria,578.56,2020,2024,12,CAPMAS
+1474,Oils & Fats,Giza,561.51,2020,2024,12,CAPMAS
+1475,Oils & Fats,Dakahlia,558.74,2020,2024,12,CAPMAS
+1476,Oils & Fats,Gharbiya,577.95,2020,2024,12,CAPMAS
+1477,Oils & Fats,National,589.23,2020,2025,1,CAPMAS
+1478,Oils & Fats,Cairo,574.54,2020,2025,1,CAPMAS
+1479,Oils & Fats,Alexandria,584.91,2020,2025,1,CAPMAS
+1480,Oils & Fats,Giza,583.46,2020,2025,1,CAPMAS
+1481,Oils & Fats,Dakahlia,613.82,2020,2025,1,CAPMAS
+1482,Oils & Fats,Gharbiya,576.38,2020,2025,1,CAPMAS
+1483,Oils & Fats,National,599.83,2020,2025,2,CAPMAS
+1484,Oils & Fats,Cairo,611.38,2020,2025,2,CAPMAS
+1485,Oils & Fats,Alexandria,586.0,2020,2025,2,CAPMAS
+1486,Oils & Fats,Giza,615.95,2020,2025,2,CAPMAS
+1487,Oils & Fats,Dakahlia,600.14,2020,2025,2,CAPMAS
+1488,Oils & Fats,Gharbiya,585.9,2020,2025,2,CAPMAS
+1489,Oils & Fats,National,610.63,2020,2025,3,CAPMAS
+1490,Oils & Fats,Cairo,596.47,2020,2025,3,CAPMAS
+1491,Oils & Fats,Alexandria,587.75,2020,2025,3,CAPMAS
+1492,Oils & Fats,Giza,617.86,2020,2025,3,CAPMAS
+1493,Oils & Fats,Dakahlia,602.65,2020,2025,3,CAPMAS
+1494,Oils & Fats,Gharbiya,590.01,2020,2025,3,CAPMAS
+1495,Oils & Fats,National,621.62,2020,2025,4,CAPMAS
+1496,Oils & Fats,Cairo,617.45,2020,2025,4,CAPMAS
+1497,Oils & Fats,Alexandria,634.74,2020,2025,4,CAPMAS
+1498,Oils & Fats,Giza,602.14,2020,2025,4,CAPMAS
+1499,Oils & Fats,Dakahlia,610.59,2020,2025,4,CAPMAS
+1500,Oils & Fats,Gharbiya,651.46,2020,2025,4,CAPMAS
+1501,Oils & Fats,National,632.81,2020,2025,5,CAPMAS
+1502,Oils & Fats,Cairo,642.47,2020,2025,5,CAPMAS
+1503,Oils & Fats,Alexandria,627.49,2020,2025,5,CAPMAS
+1504,Oils & Fats,Giza,638.79,2020,2025,5,CAPMAS
+1505,Oils & Fats,Dakahlia,639.08,2020,2025,5,CAPMAS
+1506,Oils & Fats,Gharbiya,639.03,2020,2025,5,CAPMAS
+1507,Oils & Fats,National,644.2,2020,2025,6,CAPMAS
+1508,Oils & Fats,Cairo,644.27,2020,2025,6,CAPMAS
+1509,Oils & Fats,Alexandria,654.01,2020,2025,6,CAPMAS
+1510,Oils & Fats,Giza,630.68,2020,2025,6,CAPMAS
+1511,Oils & Fats,Dakahlia,667.59,2020,2025,6,CAPMAS
+1512,Oils & Fats,Gharbiya,661.5,2020,2025,6,CAPMAS
+1513,Food & Beverages,National,454.83,2020,2025,7,CAPMAS
+1514,Food & Beverages,Cairo,451.32,2020,2025,7,CAPMAS
+1515,Food & Beverages,Alexandria,446.05,2020,2025,7,CAPMAS
+1516,Food & Beverages,Giza,443.99,2020,2025,7,CAPMAS
+1517,Food & Beverages,Dakahlia,444.77,2020,2025,7,CAPMAS
+1518,Food & Beverages,Gharbiya,473.97,2020,2025,7,CAPMAS
+1519,Food & Beverages,National,463.01,2020,2025,8,CAPMAS
+1520,Food & Beverages,Cairo,458.61,2020,2025,8,CAPMAS
+1521,Food & Beverages,Alexandria,453.04,2020,2025,8,CAPMAS
+1522,Food & Beverages,Giza,475.51,2020,2025,8,CAPMAS
+1523,Food & Beverages,Dakahlia,473.93,2020,2025,8,CAPMAS
+1524,Food & Beverages,Gharbiya,446.28,2020,2025,8,CAPMAS
+1525,Food & Beverages,National,471.35,2020,2025,9,CAPMAS
+1526,Food & Beverages,Cairo,456.98,2020,2025,9,CAPMAS
+1527,Food & Beverages,Alexandria,455.24,2020,2025,9,CAPMAS
+1528,Food & Beverages,Giza,470.83,2020,2025,9,CAPMAS
+1529,Food & Beverages,Dakahlia,488.7,2020,2025,9,CAPMAS
+1530,Food & Beverages,Gharbiya,468.02,2020,2025,9,CAPMAS
+1531,Food & Beverages,National,479.83,2020,2025,10,CAPMAS
+1532,Food & Beverages,Cairo,490.63,2020,2025,10,CAPMAS
+1533,Food & Beverages,Alexandria,484.67,2020,2025,10,CAPMAS
+1534,Food & Beverages,Giza,502.07,2020,2025,10,CAPMAS
+1535,Food & Beverages,Dakahlia,466.68,2020,2025,10,CAPMAS
+1536,Food & Beverages,Gharbiya,475.85,2020,2025,10,CAPMAS
+1537,Food & Beverages,National,488.47,2020,2025,11,CAPMAS
+1538,Food & Beverages,Cairo,479.3,2020,2025,11,CAPMAS
+1539,Food & Beverages,Alexandria,473.1,2020,2025,11,CAPMAS
+1540,Food & Beverages,Giza,481.79,2020,2025,11,CAPMAS
+1541,Food & Beverages,Dakahlia,486.03,2020,2025,11,CAPMAS
+1542,Food & Beverages,Gharbiya,489.11,2020,2025,11,CAPMAS
+1543,Food & Beverages,National,497.26,2020,2025,12,CAPMAS
+1544,Food & Beverages,Cairo,515.17,2020,2025,12,CAPMAS
+1545,Food & Beverages,Alexandria,487.15,2020,2025,12,CAPMAS
+1546,Food & Beverages,Giza,482.56,2020,2025,12,CAPMAS
+1547,Food & Beverages,Dakahlia,498.12,2020,2025,12,CAPMAS
+1548,Food & Beverages,Gharbiya,477.59,2020,2025,12,CAPMAS
+1549,Food & Beverages,National,506.21,2020,2026,1,CAPMAS
+1550,Food & Beverages,Cairo,490.67,2020,2026,1,CAPMAS
+1551,Food & Beverages,Alexandria,490.16,2020,2026,1,CAPMAS
+1552,Food & Beverages,Giza,521.05,2020,2026,1,CAPMAS
+1553,Food & Beverages,Dakahlia,495.68,2020,2026,1,CAPMAS
+1554,Food & Beverages,Gharbiya,511.5,2020,2026,1,CAPMAS
+1555,Food & Beverages,National,515.32,2020,2026,2,CAPMAS
+1556,Food & Beverages,Cairo,521.22,2020,2026,2,CAPMAS
+1557,Food & Beverages,Alexandria,501.84,2020,2026,2,CAPMAS
+1558,Food & Beverages,Giza,540.79,2020,2026,2,CAPMAS
+1559,Food & Beverages,Dakahlia,531.67,2020,2026,2,CAPMAS
+1560,Food & Beverages,Gharbiya,516.98,2020,2026,2,CAPMAS
+1561,Food & Beverages,National,524.6,2020,2026,3,CAPMAS
+1562,Food & Beverages,Cairo,504.94,2020,2026,3,CAPMAS
+1563,Food & Beverages,Alexandria,543.63,2020,2026,3,CAPMAS
+1564,Food & Beverages,Giza,519.18,2020,2026,3,CAPMAS
+1565,Food & Beverages,Dakahlia,539.5,2020,2026,3,CAPMAS
+1566,Food & Beverages,Gharbiya,541.02,2020,2026,3,CAPMAS
+1567,Food & Beverages,National,534.04,2020,2026,4,CAPMAS
+1568,Food & Beverages,Cairo,559.88,2020,2026,4,CAPMAS
+1569,Food & Beverages,Alexandria,553.36,2020,2026,4,CAPMAS
+1570,Food & Beverages,Giza,517.89,2020,2026,4,CAPMAS
+1571,Food & Beverages,Dakahlia,517.57,2020,2026,4,CAPMAS
+1572,Food & Beverages,Gharbiya,560.6,2020,2026,4,CAPMAS
+1573,Food & Beverages,National,543.65,2020,2026,5,CAPMAS
+1574,Food & Beverages,Cairo,531.22,2020,2026,5,CAPMAS
+1575,Food & Beverages,Alexandria,528.49,2020,2026,5,CAPMAS
+1576,Food & Beverages,Giza,559.79,2020,2026,5,CAPMAS
+1577,Food & Beverages,Dakahlia,541.68,2020,2026,5,CAPMAS
+1578,Food & Beverages,Gharbiya,538.33,2020,2026,5,CAPMAS
+1579,Food & Beverages,National,553.44,2020,2026,6,CAPMAS
+1580,Food & Beverages,Cairo,570.23,2020,2026,6,CAPMAS
+1581,Food & Beverages,Alexandria,568.77,2020,2026,6,CAPMAS
+1582,Food & Beverages,Giza,533.26,2020,2026,6,CAPMAS
+1583,Food & Beverages,Dakahlia,562.31,2020,2026,6,CAPMAS
+1584,Food & Beverages,Gharbiya,565.0,2020,2026,6,CAPMAS
+1585,Dairy,National,440.02,2020,2025,7,CAPMAS
+1586,Dairy,Cairo,424.25,2020,2025,7,CAPMAS
+1587,Dairy,Alexandria,457.43,2020,2025,7,CAPMAS
+1588,Dairy,Giza,440.37,2020,2025,7,CAPMAS
+1589,Dairy,Dakahlia,460.2,2020,2025,7,CAPMAS
+1590,Dairy,Gharbiya,423.16,2020,2025,7,CAPMAS
+1591,Dairy,National,447.94,2020,2025,8,CAPMAS
+1592,Dairy,Cairo,446.69,2020,2025,8,CAPMAS
+1593,Dairy,Alexandria,430.71,2020,2025,8,CAPMAS
+1594,Dairy,Giza,449.86,2020,2025,8,CAPMAS
+1595,Dairy,Dakahlia,434.63,2020,2025,8,CAPMAS
+1596,Dairy,Gharbiya,462.84,2020,2025,8,CAPMAS
+1597,Dairy,National,456.0,2020,2025,9,CAPMAS
+1598,Dairy,Cairo,448.23,2020,2025,9,CAPMAS
+1599,Dairy,Alexandria,469.77,2020,2025,9,CAPMAS
+1600,Dairy,Giza,472.47,2020,2025,9,CAPMAS
+1601,Dairy,Dakahlia,464.6,2020,2025,9,CAPMAS
+1602,Dairy,Gharbiya,459.06,2020,2025,9,CAPMAS
+1603,Dairy,National,464.21,2020,2025,10,CAPMAS
+1604,Dairy,Cairo,463.1,2020,2025,10,CAPMAS
+1605,Dairy,Alexandria,446.4,2020,2025,10,CAPMAS
+1606,Dairy,Giza,457.46,2020,2025,10,CAPMAS
+1607,Dairy,Dakahlia,452.95,2020,2025,10,CAPMAS
+1608,Dairy,Gharbiya,464.23,2020,2025,10,CAPMAS
+1609,Dairy,National,472.56,2020,2025,11,CAPMAS
+1610,Dairy,Cairo,478.85,2020,2025,11,CAPMAS
+1611,Dairy,Alexandria,459.77,2020,2025,11,CAPMAS
+1612,Dairy,Giza,494.08,2020,2025,11,CAPMAS
+1613,Dairy,Dakahlia,468.76,2020,2025,11,CAPMAS
+1614,Dairy,Gharbiya,486.97,2020,2025,11,CAPMAS
+1615,Dairy,National,481.07,2020,2025,12,CAPMAS
+1616,Dairy,Cairo,462.93,2020,2025,12,CAPMAS
+1617,Dairy,Alexandria,466.29,2020,2025,12,CAPMAS
+1618,Dairy,Giza,491.47,2020,2025,12,CAPMAS
+1619,Dairy,Dakahlia,494.91,2020,2025,12,CAPMAS
+1620,Dairy,Gharbiya,497.75,2020,2025,12,CAPMAS
+1621,Dairy,National,489.73,2020,2026,1,CAPMAS
+1622,Dairy,Cairo,486.45,2020,2026,1,CAPMAS
+1623,Dairy,Alexandria,484.33,2020,2026,1,CAPMAS
+1624,Dairy,Giza,498.21,2020,2026,1,CAPMAS
+1625,Dairy,Dakahlia,475.92,2020,2026,1,CAPMAS
+1626,Dairy,Gharbiya,486.64,2020,2026,1,CAPMAS
+1627,Dairy,National,498.55,2020,2026,2,CAPMAS
+1628,Dairy,Cairo,505.41,2020,2026,2,CAPMAS
+1629,Dairy,Alexandria,498.13,2020,2026,2,CAPMAS
+1630,Dairy,Giza,519.07,2020,2026,2,CAPMAS
+1631,Dairy,Dakahlia,516.01,2020,2026,2,CAPMAS
+1632,Dairy,Gharbiya,501.52,2020,2026,2,CAPMAS
+1633,Dairy,National,507.52,2020,2026,3,CAPMAS
+1634,Dairy,Cairo,499.01,2020,2026,3,CAPMAS
+1635,Dairy,Alexandria,510.42,2020,2026,3,CAPMAS
+1636,Dairy,Giza,530.62,2020,2026,3,CAPMAS
+1637,Dairy,Dakahlia,526.37,2020,2026,3,CAPMAS
+1638,Dairy,Gharbiya,528.32,2020,2026,3,CAPMAS
+1639,Dairy,National,516.65,2020,2026,4,CAPMAS
+1640,Dairy,Cairo,525.2,2020,2026,4,CAPMAS
+1641,Dairy,Alexandria,519.54,2020,2026,4,CAPMAS
+1642,Dairy,Giza,537.0,2020,2026,4,CAPMAS
+1643,Dairy,Dakahlia,501.73,2020,2026,4,CAPMAS
+1644,Dairy,Gharbiya,529.08,2020,2026,4,CAPMAS
+1645,Dairy,National,525.95,2020,2026,5,CAPMAS
+1646,Dairy,Cairo,513.73,2020,2026,5,CAPMAS
+1647,Dairy,Alexandria,510.6,2020,2026,5,CAPMAS
+1648,Dairy,Giza,519.24,2020,2026,5,CAPMAS
+1649,Dairy,Dakahlia,531.98,2020,2026,5,CAPMAS
+1650,Dairy,Gharbiya,545.13,2020,2026,5,CAPMAS
+1651,Dairy,National,535.42,2020,2026,6,CAPMAS
+1652,Dairy,Cairo,540.49,2020,2026,6,CAPMAS
+1653,Dairy,Alexandria,522.56,2020,2026,6,CAPMAS
+1654,Dairy,Giza,536.8,2020,2026,6,CAPMAS
+1655,Dairy,Dakahlia,555.72,2020,2026,6,CAPMAS
+1656,Dairy,Gharbiya,540.47,2020,2026,6,CAPMAS
+1657,Bread & Cereals,National,475.98,2020,2025,7,CAPMAS
+1658,Bread & Cereals,Cairo,464.54,2020,2025,7,CAPMAS
+1659,Bread & Cereals,Alexandria,476.27,2020,2025,7,CAPMAS
+1660,Bread & Cereals,Giza,481.46,2020,2025,7,CAPMAS
+1661,Bread & Cereals,Dakahlia,489.38,2020,2025,7,CAPMAS
+1662,Bread & Cereals,Gharbiya,467.78,2020,2025,7,CAPMAS
+1663,Bread & Cereals,National,484.55,2020,2025,8,CAPMAS
+1664,Bread & Cereals,Cairo,468.71,2020,2025,8,CAPMAS
+1665,Bread & Cereals,Alexandria,499.44,2020,2025,8,CAPMAS
+1666,Bread & Cereals,Giza,505.25,2020,2025,8,CAPMAS
+1667,Bread & Cereals,Dakahlia,466.66,2020,2025,8,CAPMAS
+1668,Bread & Cereals,Gharbiya,481.95,2020,2025,8,CAPMAS
+1669,Bread & Cereals,National,493.27,2020,2025,9,CAPMAS
+1670,Bread & Cereals,Cairo,511.63,2020,2025,9,CAPMAS
+1671,Bread & Cereals,Alexandria,517.76,2020,2025,9,CAPMAS
+1672,Bread & Cereals,Giza,515.45,2020,2025,9,CAPMAS
+1673,Bread & Cereals,Dakahlia,493.3,2020,2025,9,CAPMAS
+1674,Bread & Cereals,Gharbiya,513.72,2020,2025,9,CAPMAS
+1675,Bread & Cereals,National,502.15,2020,2025,10,CAPMAS
+1676,Bread & Cereals,Cairo,489.53,2020,2025,10,CAPMAS
+1677,Bread & Cereals,Alexandria,494.12,2020,2025,10,CAPMAS
+1678,Bread & Cereals,Giza,485.95,2020,2025,10,CAPMAS
+1679,Bread & Cereals,Dakahlia,511.54,2020,2025,10,CAPMAS
+1680,Bread & Cereals,Gharbiya,484.65,2020,2025,10,CAPMAS
+1681,Bread & Cereals,National,511.19,2020,2025,11,CAPMAS
+1682,Bread & Cereals,Cairo,510.45,2020,2025,11,CAPMAS
+1683,Bread & Cereals,Alexandria,513.79,2020,2025,11,CAPMAS
+1684,Bread & Cereals,Giza,498.25,2020,2025,11,CAPMAS
+1685,Bread & Cereals,Dakahlia,529.8,2020,2025,11,CAPMAS
+1686,Bread & Cereals,Gharbiya,530.0,2020,2025,11,CAPMAS
+1687,Bread & Cereals,National,520.39,2020,2025,12,CAPMAS
+1688,Bread & Cereals,Cairo,530.75,2020,2025,12,CAPMAS
+1689,Bread & Cereals,Alexandria,524.41,2020,2025,12,CAPMAS
+1690,Bread & Cereals,Giza,526.39,2020,2025,12,CAPMAS
+1691,Bread & Cereals,Dakahlia,542.8,2020,2025,12,CAPMAS
+1692,Bread & Cereals,Gharbiya,516.07,2020,2025,12,CAPMAS
+1693,Bread & Cereals,National,529.76,2020,2026,1,CAPMAS
+1694,Bread & Cereals,Cairo,517.92,2020,2026,1,CAPMAS
+1695,Bread & Cereals,Alexandria,550.77,2020,2026,1,CAPMAS
+1696,Bread & Cereals,Giza,539.2,2020,2026,1,CAPMAS
+1697,Bread & Cereals,Dakahlia,516.9,2020,2026,1,CAPMAS
+1698,Bread & Cereals,Gharbiya,515.64,2020,2026,1,CAPMAS
+1699,Bread & Cereals,National,539.29,2020,2026,2,CAPMAS
+1700,Bread & Cereals,Cairo,525.9,2020,2026,2,CAPMAS
+1701,Bread & Cereals,Alexandria,555.64,2020,2026,2,CAPMAS
+1702,Bread & Cereals,Giza,534.54,2020,2026,2,CAPMAS
+1703,Bread & Cereals,Dakahlia,556.34,2020,2026,2,CAPMAS
+1704,Bread & Cereals,Gharbiya,528.89,2020,2026,2,CAPMAS
+1705,Bread & Cereals,National,549.0,2020,2026,3,CAPMAS
+1706,Bread & Cereals,Cairo,552.71,2020,2026,3,CAPMAS
+1707,Bread & Cereals,Alexandria,573.62,2020,2026,3,CAPMAS
+1708,Bread & Cereals,Giza,563.34,2020,2026,3,CAPMAS
+1709,Bread & Cereals,Dakahlia,528.21,2020,2026,3,CAPMAS
+1710,Bread & Cereals,Gharbiya,538.6,2020,2026,3,CAPMAS
+1711,Bread & Cereals,National,558.88,2020,2026,4,CAPMAS
+1712,Bread & Cereals,Cairo,549.08,2020,2026,4,CAPMAS
+1713,Bread & Cereals,Alexandria,543.02,2020,2026,4,CAPMAS
+1714,Bread & Cereals,Giza,567.57,2020,2026,4,CAPMAS
+1715,Bread & Cereals,Dakahlia,573.42,2020,2026,4,CAPMAS
+1716,Bread & Cereals,Gharbiya,576.05,2020,2026,4,CAPMAS
+1717,Bread & Cereals,National,568.94,2020,2026,5,CAPMAS
+1718,Bread & Cereals,Cairo,596.03,2020,2026,5,CAPMAS
+1719,Bread & Cereals,Alexandria,597.39,2020,2026,5,CAPMAS
+1720,Bread & Cereals,Giza,567.67,2020,2026,5,CAPMAS
+1721,Bread & Cereals,Dakahlia,562.25,2020,2026,5,CAPMAS
+1722,Bread & Cereals,Gharbiya,560.76,2020,2026,5,CAPMAS
+1723,Bread & Cereals,National,579.18,2020,2026,6,CAPMAS
+1724,Bread & Cereals,Cairo,568.9,2020,2026,6,CAPMAS
+1725,Bread & Cereals,Alexandria,562.93,2020,2026,6,CAPMAS
+1726,Bread & Cereals,Giza,580.36,2020,2026,6,CAPMAS
+1727,Bread & Cereals,Dakahlia,589.06,2020,2026,6,CAPMAS
+1728,Bread & Cereals,Gharbiya,563.43,2020,2026,6,CAPMAS
+1729,Meat & Poultry,National,486.56,2020,2025,7,CAPMAS
+1730,Meat & Poultry,Cairo,497.04,2020,2025,7,CAPMAS
+1731,Meat & Poultry,Alexandria,475.67,2020,2025,7,CAPMAS
+1732,Meat & Poultry,Giza,475.59,2020,2025,7,CAPMAS
+1733,Meat & Poultry,Dakahlia,506.15,2020,2025,7,CAPMAS
+1734,Meat & Poultry,Gharbiya,495.46,2020,2025,7,CAPMAS
+1735,Meat & Poultry,National,495.32,2020,2025,8,CAPMAS
+1736,Meat & Poultry,Cairo,519.79,2020,2025,8,CAPMAS
+1737,Meat & Poultry,Alexandria,483.66,2020,2025,8,CAPMAS
+1738,Meat & Poultry,Giza,481.95,2020,2025,8,CAPMAS
+1739,Meat & Poultry,Dakahlia,506.11,2020,2025,8,CAPMAS
+1740,Meat & Poultry,Gharbiya,498.03,2020,2025,8,CAPMAS
+1741,Meat & Poultry,National,504.23,2020,2025,9,CAPMAS
+1742,Meat & Poultry,Cairo,502.6,2020,2025,9,CAPMAS
+1743,Meat & Poultry,Alexandria,522.83,2020,2025,9,CAPMAS
+1744,Meat & Poultry,Giza,527.92,2020,2025,9,CAPMAS
+1745,Meat & Poultry,Dakahlia,504.98,2020,2025,9,CAPMAS
+1746,Meat & Poultry,Gharbiya,517.69,2020,2025,9,CAPMAS
+1747,Meat & Poultry,National,513.31,2020,2025,10,CAPMAS
+1748,Meat & Poultry,Cairo,523.77,2020,2025,10,CAPMAS
+1749,Meat & Poultry,Alexandria,519.9,2020,2025,10,CAPMAS
+1750,Meat & Poultry,Giza,530.57,2020,2025,10,CAPMAS
+1751,Meat & Poultry,Dakahlia,531.56,2020,2025,10,CAPMAS
+1752,Meat & Poultry,Gharbiya,496.11,2020,2025,10,CAPMAS
+1753,Meat & Poultry,National,522.55,2020,2025,11,CAPMAS
+1754,Meat & Poultry,Cairo,510.18,2020,2025,11,CAPMAS
+1755,Meat & Poultry,Alexandria,536.04,2020,2025,11,CAPMAS
+1756,Meat & Poultry,Giza,505.06,2020,2025,11,CAPMAS
+1757,Meat & Poultry,Dakahlia,505.23,2020,2025,11,CAPMAS
+1758,Meat & Poultry,Gharbiya,513.31,2020,2025,11,CAPMAS
+1759,Meat & Poultry,National,531.95,2020,2025,12,CAPMAS
+1760,Meat & Poultry,Cairo,542.75,2020,2025,12,CAPMAS
+1761,Meat & Poultry,Alexandria,526.34,2020,2025,12,CAPMAS
+1762,Meat & Poultry,Giza,510.7,2020,2025,12,CAPMAS
+1763,Meat & Poultry,Dakahlia,526.66,2020,2025,12,CAPMAS
+1764,Meat & Poultry,Gharbiya,529.34,2020,2025,12,CAPMAS
+1765,Meat & Poultry,National,541.53,2020,2026,1,CAPMAS
+1766,Meat & Poultry,Cairo,540.6,2020,2026,1,CAPMAS
+1767,Meat & Poultry,Alexandria,547.84,2020,2026,1,CAPMAS
+1768,Meat & Poultry,Giza,545.5,2020,2026,1,CAPMAS
+1769,Meat & Poultry,Dakahlia,523.64,2020,2026,1,CAPMAS
+1770,Meat & Poultry,Gharbiya,568.44,2020,2026,1,CAPMAS
+1771,Meat & Poultry,National,551.28,2020,2026,2,CAPMAS
+1772,Meat & Poultry,Cairo,560.84,2020,2026,2,CAPMAS
+1773,Meat & Poultry,Alexandria,575.26,2020,2026,2,CAPMAS
+1774,Meat & Poultry,Giza,567.82,2020,2026,2,CAPMAS
+1775,Meat & Poultry,Dakahlia,537.14,2020,2026,2,CAPMAS
+1776,Meat & Poultry,Gharbiya,539.24,2020,2026,2,CAPMAS
+1777,Meat & Poultry,National,561.2,2020,2026,3,CAPMAS
+1778,Meat & Poultry,Cairo,575.65,2020,2026,3,CAPMAS
+1779,Meat & Poultry,Alexandria,565.78,2020,2026,3,CAPMAS
+1780,Meat & Poultry,Giza,561.2,2020,2026,3,CAPMAS
+1781,Meat & Poultry,Dakahlia,582.7,2020,2026,3,CAPMAS
+1782,Meat & Poultry,Gharbiya,542.13,2020,2026,3,CAPMAS
+1783,Meat & Poultry,National,571.3,2020,2026,4,CAPMAS
+1784,Meat & Poultry,Cairo,584.55,2020,2026,4,CAPMAS
+1785,Meat & Poultry,Alexandria,564.27,2020,2026,4,CAPMAS
+1786,Meat & Poultry,Giza,562.04,2020,2026,4,CAPMAS
+1787,Meat & Poultry,Dakahlia,582.98,2020,2026,4,CAPMAS
+1788,Meat & Poultry,Gharbiya,563.28,2020,2026,4,CAPMAS
+1789,Meat & Poultry,National,581.58,2020,2026,5,CAPMAS
+1790,Meat & Poultry,Cairo,562.88,2020,2026,5,CAPMAS
+1791,Meat & Poultry,Alexandria,607.13,2020,2026,5,CAPMAS
+1792,Meat & Poultry,Giza,589.66,2020,2026,5,CAPMAS
+1793,Meat & Poultry,Dakahlia,601.23,2020,2026,5,CAPMAS
+1794,Meat & Poultry,Gharbiya,589.9,2020,2026,5,CAPMAS
+1795,Meat & Poultry,National,592.05,2020,2026,6,CAPMAS
+1796,Meat & Poultry,Cairo,612.49,2020,2026,6,CAPMAS
+1797,Meat & Poultry,Alexandria,587.77,2020,2026,6,CAPMAS
+1798,Meat & Poultry,Giza,608.96,2020,2026,6,CAPMAS
+1799,Meat & Poultry,Dakahlia,573.71,2020,2026,6,CAPMAS
+1800,Meat & Poultry,Gharbiya,616.34,2020,2026,6,CAPMAS
+1801,Vegetables,National,507.71,2020,2025,7,CAPMAS
+1802,Vegetables,Cairo,492.5,2020,2025,7,CAPMAS
+1803,Vegetables,Alexandria,501.33,2020,2025,7,CAPMAS
+1804,Vegetables,Giza,503.46,2020,2025,7,CAPMAS
+1805,Vegetables,Dakahlia,529.9,2020,2025,7,CAPMAS
+1806,Vegetables,Gharbiya,489.76,2020,2025,7,CAPMAS
+1807,Vegetables,National,516.85,2020,2025,8,CAPMAS
+1808,Vegetables,Cairo,510.53,2020,2025,8,CAPMAS
+1809,Vegetables,Alexandria,536.28,2020,2025,8,CAPMAS
+1810,Vegetables,Giza,512.57,2020,2025,8,CAPMAS
+1811,Vegetables,Dakahlia,520.28,2020,2025,8,CAPMAS
+1812,Vegetables,Gharbiya,509.62,2020,2025,8,CAPMAS
+1813,Vegetables,National,526.15,2020,2025,9,CAPMAS
+1814,Vegetables,Cairo,532.6,2020,2025,9,CAPMAS
+1815,Vegetables,Alexandria,541.62,2020,2025,9,CAPMAS
+1816,Vegetables,Giza,533.22,2020,2025,9,CAPMAS
+1817,Vegetables,Dakahlia,535.92,2020,2025,9,CAPMAS
+1818,Vegetables,Gharbiya,543.02,2020,2025,9,CAPMAS
+1819,Vegetables,National,535.63,2020,2025,10,CAPMAS
+1820,Vegetables,Cairo,528.86,2020,2025,10,CAPMAS
+1821,Vegetables,Alexandria,555.18,2020,2025,10,CAPMAS
+1822,Vegetables,Giza,525.38,2020,2025,10,CAPMAS
+1823,Vegetables,Dakahlia,548.27,2020,2025,10,CAPMAS
+1824,Vegetables,Gharbiya,543.0,2020,2025,10,CAPMAS
+1825,Vegetables,National,545.27,2020,2025,11,CAPMAS
+1826,Vegetables,Cairo,544.71,2020,2025,11,CAPMAS
+1827,Vegetables,Alexandria,571.33,2020,2025,11,CAPMAS
+1828,Vegetables,Giza,555.14,2020,2025,11,CAPMAS
+1829,Vegetables,Dakahlia,545.9,2020,2025,11,CAPMAS
+1830,Vegetables,Gharbiya,552.59,2020,2025,11,CAPMAS
+1831,Vegetables,National,555.08,2020,2025,12,CAPMAS
+1832,Vegetables,Cairo,548.93,2020,2025,12,CAPMAS
+1833,Vegetables,Alexandria,547.35,2020,2025,12,CAPMAS
+1834,Vegetables,Giza,577.28,2020,2025,12,CAPMAS
+1835,Vegetables,Dakahlia,566.72,2020,2025,12,CAPMAS
+1836,Vegetables,Gharbiya,577.81,2020,2025,12,CAPMAS
+1837,Vegetables,National,565.07,2020,2026,1,CAPMAS
+1838,Vegetables,Cairo,548.37,2020,2026,1,CAPMAS
+1839,Vegetables,Alexandria,546.62,2020,2026,1,CAPMAS
+1840,Vegetables,Giza,590.66,2020,2026,1,CAPMAS
+1841,Vegetables,Dakahlia,552.37,2020,2026,1,CAPMAS
+1842,Vegetables,Gharbiya,568.14,2020,2026,1,CAPMAS
+1843,Vegetables,National,575.24,2020,2026,2,CAPMAS
+1844,Vegetables,Cairo,572.21,2020,2026,2,CAPMAS
+1845,Vegetables,Alexandria,601.7,2020,2026,2,CAPMAS
+1846,Vegetables,Giza,575.72,2020,2026,2,CAPMAS
+1847,Vegetables,Dakahlia,557.51,2020,2026,2,CAPMAS
+1848,Vegetables,Gharbiya,595.07,2020,2026,2,CAPMAS
+1849,Vegetables,National,585.6,2020,2026,3,CAPMAS
+1850,Vegetables,Cairo,607.49,2020,2026,3,CAPMAS
+1851,Vegetables,Alexandria,587.11,2020,2026,3,CAPMAS
+1852,Vegetables,Giza,592.69,2020,2026,3,CAPMAS
+1853,Vegetables,Dakahlia,578.92,2020,2026,3,CAPMAS
+1854,Vegetables,Gharbiya,579.22,2020,2026,3,CAPMAS
+1855,Vegetables,National,596.14,2020,2026,4,CAPMAS
+1856,Vegetables,Cairo,591.0,2020,2026,4,CAPMAS
+1857,Vegetables,Alexandria,625.41,2020,2026,4,CAPMAS
+1858,Vegetables,Giza,616.84,2020,2026,4,CAPMAS
+1859,Vegetables,Dakahlia,577.02,2020,2026,4,CAPMAS
+1860,Vegetables,Gharbiya,624.78,2020,2026,4,CAPMAS
+1861,Vegetables,National,606.87,2020,2026,5,CAPMAS
+1862,Vegetables,Cairo,630.25,2020,2026,5,CAPMAS
+1863,Vegetables,Alexandria,612.53,2020,2026,5,CAPMAS
+1864,Vegetables,Giza,628.96,2020,2026,5,CAPMAS
+1865,Vegetables,Dakahlia,606.83,2020,2026,5,CAPMAS
+1866,Vegetables,Gharbiya,614.46,2020,2026,5,CAPMAS
+1867,Vegetables,National,617.79,2020,2026,6,CAPMAS
+1868,Vegetables,Cairo,608.12,2020,2026,6,CAPMAS
+1869,Vegetables,Alexandria,604.5,2020,2026,6,CAPMAS
+1870,Vegetables,Giza,633.18,2020,2026,6,CAPMAS
+1871,Vegetables,Dakahlia,624.39,2020,2026,6,CAPMAS
+1872,Vegetables,Gharbiya,644.0,2020,2026,6,CAPMAS
+1873,Oils & Fats,National,655.8,2020,2025,7,CAPMAS
+1874,Oils & Fats,Cairo,676.5,2020,2025,7,CAPMAS
+1875,Oils & Fats,Alexandria,676.41,2020,2025,7,CAPMAS
+1876,Oils & Fats,Giza,659.52,2020,2025,7,CAPMAS
+1877,Oils & Fats,Dakahlia,655.55,2020,2025,7,CAPMAS
+1878,Oils & Fats,Gharbiya,675.86,2020,2025,7,CAPMAS
+1879,Oils & Fats,National,667.6,2020,2025,8,CAPMAS
+1880,Oils & Fats,Cairo,692.46,2020,2025,8,CAPMAS
+1881,Oils & Fats,Alexandria,669.34,2020,2025,8,CAPMAS
+1882,Oils & Fats,Giza,674.18,2020,2025,8,CAPMAS
+1883,Oils & Fats,Dakahlia,655.89,2020,2025,8,CAPMAS
+1884,Oils & Fats,Gharbiya,684.02,2020,2025,8,CAPMAS
+1885,Oils & Fats,National,679.62,2020,2025,9,CAPMAS
+1886,Oils & Fats,Cairo,670.74,2020,2025,9,CAPMAS
+1887,Oils & Fats,Alexandria,674.48,2020,2025,9,CAPMAS
+1888,Oils & Fats,Giza,677.54,2020,2025,9,CAPMAS
+1889,Oils & Fats,Dakahlia,709.82,2020,2025,9,CAPMAS
+1890,Oils & Fats,Gharbiya,712.65,2020,2025,9,CAPMAS
+1891,Oils & Fats,National,691.85,2020,2025,10,CAPMAS
+1892,Oils & Fats,Cairo,681.97,2020,2025,10,CAPMAS
+1893,Oils & Fats,Alexandria,672.76,2020,2025,10,CAPMAS
+1894,Oils & Fats,Giza,700.48,2020,2025,10,CAPMAS
+1895,Oils & Fats,Dakahlia,705.58,2020,2025,10,CAPMAS
+1896,Oils & Fats,Gharbiya,704.48,2020,2025,10,CAPMAS
+1897,Oils & Fats,National,704.3,2020,2025,11,CAPMAS
+1898,Oils & Fats,Cairo,733.88,2020,2025,11,CAPMAS
+1899,Oils & Fats,Alexandria,679.85,2020,2025,11,CAPMAS
+1900,Oils & Fats,Giza,676.83,2020,2025,11,CAPMAS
+1901,Oils & Fats,Dakahlia,710.17,2020,2025,11,CAPMAS
+1902,Oils & Fats,Gharbiya,738.98,2020,2025,11,CAPMAS
+1903,Oils & Fats,National,716.98,2020,2025,12,CAPMAS
+1904,Oils & Fats,Cairo,713.55,2020,2025,12,CAPMAS
+1905,Oils & Fats,Alexandria,744.89,2020,2025,12,CAPMAS
+1906,Oils & Fats,Giza,716.46,2020,2025,12,CAPMAS
+1907,Oils & Fats,Dakahlia,747.64,2020,2025,12,CAPMAS
+1908,Oils & Fats,Gharbiya,731.75,2020,2025,12,CAPMAS
+1909,Oils & Fats,National,729.89,2020,2026,1,CAPMAS
+1910,Oils & Fats,Cairo,704.67,2020,2026,1,CAPMAS
+1911,Oils & Fats,Alexandria,750.11,2020,2026,1,CAPMAS
+1912,Oils & Fats,Giza,716.84,2020,2026,1,CAPMAS
+1913,Oils & Fats,Dakahlia,756.42,2020,2026,1,CAPMAS
+1914,Oils & Fats,Gharbiya,735.32,2020,2026,1,CAPMAS
+1915,Oils & Fats,National,743.02,2020,2026,2,CAPMAS
+1916,Oils & Fats,Cairo,717.57,2020,2026,2,CAPMAS
+1917,Oils & Fats,Alexandria,743.58,2020,2026,2,CAPMAS
+1918,Oils & Fats,Giza,719.27,2020,2026,2,CAPMAS
+1919,Oils & Fats,Dakahlia,727.36,2020,2026,2,CAPMAS
+1920,Oils & Fats,Gharbiya,744.1,2020,2026,2,CAPMAS
+1921,Oils & Fats,National,756.4,2020,2026,3,CAPMAS
+1922,Oils & Fats,Cairo,764.62,2020,2026,3,CAPMAS
+1923,Oils & Fats,Alexandria,739.19,2020,2026,3,CAPMAS
+1924,Oils & Fats,Giza,728.78,2020,2026,3,CAPMAS
+1925,Oils & Fats,Dakahlia,761.53,2020,2026,3,CAPMAS
+1926,Oils & Fats,Gharbiya,740.29,2020,2026,3,CAPMAS
+1927,Oils & Fats,National,770.01,2020,2026,4,CAPMAS
+1928,Oils & Fats,Cairo,740.81,2020,2026,4,CAPMAS
+1929,Oils & Fats,Alexandria,750.21,2020,2026,4,CAPMAS
+1930,Oils & Fats,Giza,806.93,2020,2026,4,CAPMAS
+1931,Oils & Fats,Dakahlia,791.33,2020,2026,4,CAPMAS
+1932,Oils & Fats,Gharbiya,776.87,2020,2026,4,CAPMAS
+1933,Oils & Fats,National,783.87,2020,2026,5,CAPMAS
+1934,Oils & Fats,Cairo,766.72,2020,2026,5,CAPMAS
+1935,Oils & Fats,Alexandria,767.01,2020,2026,5,CAPMAS
+1936,Oils & Fats,Giza,798.11,2020,2026,5,CAPMAS
+1937,Oils & Fats,Dakahlia,761.39,2020,2026,5,CAPMAS
+1938,Oils & Fats,Gharbiya,794.97,2020,2026,5,CAPMAS
+1939,Oils & Fats,National,797.98,2020,2026,6,CAPMAS
+1940,Oils & Fats,Cairo,823.68,2020,2026,6,CAPMAS
+1941,Oils & Fats,Alexandria,773.53,2020,2026,6,CAPMAS
+1942,Oils & Fats,Giza,783.47,2020,2026,6,CAPMAS
+1943,Oils & Fats,Dakahlia,782.84,2020,2026,6,CAPMAS
+1944,Oils & Fats,Gharbiya,821.0,2020,2026,6,CAPMAS

@@ -1,0 +1,51 @@
+product_id,product_name,brand,category,sub_category,unit
+1,Full Fat Milk 1L,Juhayna,Dairy,Milk,litre
+2,Low Fat Milk 1L,Juhayna,Dairy,Milk,litre
+3,UHT Milk 1L,Panda,Dairy,Milk,litre
+4,Fresh Milk 1L,Damietta,Dairy,Milk,litre
+5,White Cheese 500g,Domty,Dairy,Cheese,piece
+6,Processed Cheese 8 slices,Frico,Dairy,Cheese,piece
+7,Romy Cheese 200g,Romy,Dairy,Cheese,piece
+8,Natural Yoghurt 400g,Juhayna,Dairy,Yoghurt,piece
+9,Flavoured Yoghurt 120g,Danone,Dairy,Yoghurt,piece
+10,Butter 200g,Lurpak,Dairy,Butter,piece
+11,Local Butter 200g,Merai,Dairy,Butter,piece
+12,Cream 200ml,Juhayna,Dairy,Cream,piece
+13,White Bread Loaf,Americana,Bread & Bakery,Bread,piece
+14,Whole Wheat Bread,Americana,Bread & Bakery,Bread,piece
+15,Baladi Bread 5-pack,Local,Bread & Bakery,Bread,piece
+16,Toast Bread,Kirispy,Bread & Bakery,Bread,piece
+17,Croissant 6-pack,Chipsy,Bread & Bakery,Pastry,piece
+18,Fino Roll 6-pack,Fino,Bread & Bakery,Pastry,piece
+19,Chicken Breast 1kg,Watania,Meat & Poultry,Chicken,kg
+20,Whole Chicken 1kg,Cairo Poultry,Meat & Poultry,Chicken,kg
+21,Ground Beef 1kg,Local,Meat & Poultry,Beef,kg
+22,Beef Steak 1kg,Local,Meat & Poultry,Beef,kg
+23,Lamb Chops 1kg,Local,Meat & Poultry,Lamb,kg
+24,Frozen Shrimp 500g,Nile Pride,Meat & Poultry,Seafood,piece
+25,Tuna Canned 185g,Green Field,Meat & Poultry,Seafood,piece
+26,Sausage 400g,Americana,Meat & Poultry,Processed,piece
+27,Tomatoes 1kg,Local,Vegetables,Tomatoes,kg
+28,Potatoes 1kg,Local,Vegetables,Potatoes,kg
+29,Onions 1kg,Local,Vegetables,Onions,kg
+30,Cucumbers 1kg,Local,Vegetables,Cucumbers,kg
+31,Carrots 1kg,Local,Vegetables,Carrots,kg
+32,Eggplant 1kg,Local,Vegetables,Eggplant,kg
+33,Green Pepper 1kg,Local,Vegetables,Pepper,kg
+34,Garlic 250g,Local,Vegetables,Garlic,piece
+35,Lettuce head,Local,Vegetables,Lettuce,piece
+36,Sunflower Oil 1.5L,Afia,Packaged Goods,Oil,piece
+37,Corn Oil 1.5L,Hayat,Packaged Goods,Oil,piece
+38,White Sugar 1kg,Local,Packaged Goods,Sugar,kg
+39,White Rice 2kg,Uncle Ben's,Packaged Goods,Rice,piece
+40,Egyptian Rice 2kg,Al Doha,Packaged Goods,Rice,piece
+41,Macaroni 400g,Bisko,Packaged Goods,Pasta,piece
+42,Spaghetti 400g,De Cecco,Packaged Goods,Pasta,piece
+43,Tomato Paste 135g,Heinz,Packaged Goods,Sauces,piece
+44,Ketchup 500ml,Heinz,Packaged Goods,Sauces,piece
+45,Salt 1kg,Local,Packaged Goods,Spices,kg
+46,Black Tea 100 bags,Lipton,Packaged Goods,Beverages,piece
+47,Nescafe Classic 200g,Nestle,Packaged Goods,Beverages,piece
+48,Pepsi 1.5L,PepsiCo,Packaged Goods,Beverages,piece
+49,Mineral Water 1.5L,Siwa,Packaged Goods,Beverages,piece
+50,Chips Ahoy 100g,Nabisco,Packaged Goods,Snacks,piece
