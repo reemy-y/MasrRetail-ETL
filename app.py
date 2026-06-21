@@ -8,9 +8,7 @@ import plotly.graph_objects as go
 import plotly.express as px
 import streamlit as st
 
-# ─────────────────────────────────────────────────────────────────────────────
 # CONFIG
-# ─────────────────────────────────────────────────────────────────────────────
 
 DB_PATH = "masrretail.db"
 RUN_LOG_PATH = "etl_run_log.csv"
@@ -34,9 +32,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-# ─────────────────────────────────────────────────────────────────────────────
-# DATA LOADING (cached so the app stays fast)
-# ─────────────────────────────────────────────────────────────────────────────
+# DATA LOADING 
 
 @st.cache_data(ttl=300)
 def load_table(query: str) -> pd.DataFrame:
@@ -62,9 +58,7 @@ def to_csv_download(df: pd.DataFrame, label: str, filename: str, key: str):
 
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # AUTO-RUN ETL on first launch 
-# ─────────────────────────────────────────────────────────────────────────────
 
 if not os.path.exists(DB_PATH):
     with st.spinner("First-time setup: running ETL pipeline to build the database..."):
@@ -91,9 +85,7 @@ if products_df.empty:
     st.error("Database is empty. Run `python etl.py` to load data first.")
     st.stop()
 
-# ─────────────────────────────────────────────────────────────────────────────
 # SIDEBAR — Filters
-# ─────────────────────────────────────────────────────────────────────────────
 
 st.sidebar.title("MasrRetail")
 st.sidebar.caption("Grocery price tracking vs official CPI")
@@ -130,9 +122,8 @@ show_cpi_overlay = st.sidebar.checkbox("Show CPI overlay on trend chart", value=
 st.sidebar.markdown("---")
 st.sidebar.caption(f"Last refreshed: {datetime.now().strftime('%Y-%m-%d %H:%M')}")
 
-# ─────────────────────────────────────────────────────────────────────────────
+
 # HEADER
-# ─────────────────────────────────────────────────────────────────────────────
 
 st.title("MasrRetail — Egypt Grocery Price Tracker")
 st.caption("Comparing supermarket prices across Egypt against official CAPMAS inflation data")
@@ -144,17 +135,13 @@ if not selected_govs or not selected_chains:
 gov_list_sql = "', '".join(selected_govs)
 chain_list_sql = "', '".join(selected_chains)
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TABS
-# ─────────────────────────────────────────────────────────────────────────────
 
 tab1, tab2, tab3, tab4 = st.tabs([
     "Price Trends", "Cross-Retailer Comparison", "Overview", "Pipeline Log"
 ])
 
-# ═══════════════════════════════════════════════════════════════════════════
-# TAB 1 — PRICE TREND CHART + CPI OVERLAY
-# ═══════════════════════════════════════════════════════════════════════════
+# TAB 1
 
 with tab1:
     st.subheader(f"Price trend: {selected_product}")
@@ -248,9 +235,7 @@ with tab1:
 
         to_csv_download(trend_df, "Download price trend data (CSV)", "price_trend.csv", "dl_trend")
 
-# ═══════════════════════════════════════════════════════════════════════════
-# TAB 2 — CROSS-RETAILER COMPARISON TABLE
-# ═══════════════════════════════════════════════════════════════════════════
+# TAB 2
 
 with tab2:
     st.subheader(f"Latest prices by retailer: {selected_product}")
@@ -309,9 +294,8 @@ with tab2:
         )
         st.plotly_chart(fig_bar, use_container_width=True)
 
-# ═══════════════════════════════════════════════════════════════════════════
-# TAB 3 — OVERVIEW
-# ═══════════════════════════════════════════════════════════════════════════
+
+# TAB 3
 
 with tab3:
     st.subheader("Dataset overview")
@@ -366,9 +350,7 @@ with tab3:
     st.dataframe(raw_df, use_container_width=True, hide_index=True, column_config=column_config)
     to_csv_download(raw_df, f"Download {table_choice}.csv", f"{table_choice}.csv", f"dl_{table_choice}")
 
-# ═══════════════════════════════════════════════════════════════════════════
-# TAB 4 — ETL PIPELINE LOG
-# ═══════════════════════════════════════════════════════════════════════════
+# TAB 4 
 
 with tab4:
     st.subheader("ETL pipeline run history")
@@ -404,9 +386,7 @@ with tab4:
     else:
         st.success("No rejected rows — all data passed validation.")
 
-# ─────────────────────────────────────────────────────────────────────────────
 # FOOTER
-# ─────────────────────────────────────────────────────────────────────────────
 
 st.markdown("---")
 st.caption("MasrRetail ETL — Graduation project | Data: collected supermarket prices + CAPMAS CPI")
