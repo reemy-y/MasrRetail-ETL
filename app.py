@@ -1,13 +1,3 @@
-"""
-MasrRetail Dashboard
-=====================
-Streamlit dashboard for exploring Egyptian grocery prices vs official CAPMAS CPI.
-
-Run with:
-    streamlit run app.py
-
-Requires masrretail.db to exist in the same folder (run etl.py first).
-"""
 
 import os
 import sqlite3
@@ -71,9 +61,9 @@ def to_csv_download(df: pd.DataFrame, label: str, filename: str, key: str):
     st.download_button(label, csv, filename, "text/csv", key=key)
 
 
+
 # ─────────────────────────────────────────────────────────────────────────────
-# ─────────────────────────────────────────────────────────────────────────────
-# AUTO-RUN ETL on first launch (so cloud deployments work without manual setup)
+# AUTO-RUN ETL on first launch 
 # ─────────────────────────────────────────────────────────────────────────────
 
 if not os.path.exists(DB_PATH):
