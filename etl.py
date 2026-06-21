@@ -23,9 +23,8 @@ from datetime import datetime
 
 import pandas as pd
 
-# ─────────────────────────────────────────────────────────────────────────────
 # CONFIG
-# ─────────────────────────────────────────────────────────────────────────────
+
 
 DEFAULT_DB_PATH   = "masrretail.db"
 DEFAULT_DATA_DIR  = "masrretail_data"
@@ -69,9 +68,7 @@ VALID_UNITS       = {"kg", "litre", "piece", "g", "ml", "l"}
 VALID_STORE_TYPES = {"Hypermarket", "Supermarket", "Minimarket"}
 MAX_PRICE_EGP     = 10_000   # anything above this is flagged as corrupt
 
-# ─────────────────────────────────────────────────────────────────────────────
 # LOGGING
-# ─────────────────────────────────────────────────────────────────────────────
 
 logging.basicConfig(
     level=logging.INFO,
@@ -81,9 +78,7 @@ logging.basicConfig(
 log = logging.getLogger("masrretail_etl")
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # STEP 1 — EXTRACT
-# ─────────────────────────────────────────────────────────────────────────────
 
 def load_csv(filepath: str) -> pd.DataFrame:
     """
@@ -103,9 +98,7 @@ def load_csv(filepath: str) -> pd.DataFrame:
         return pd.DataFrame()
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # STEP 2 — CLEAN
-# ─────────────────────────────────────────────────────────────────────────────
 
 def clean_prices(df: pd.DataFrame) -> pd.DataFrame:
     """
@@ -224,9 +217,7 @@ def clean_cpi(df: pd.DataFrame) -> pd.DataFrame:
     return df
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # STEP 3 — STANDARDIZE
-# ─────────────────────────────────────────────────────────────────────────────
 
 def standardize_categories(df: pd.DataFrame, col: str = "category") -> pd.DataFrame:
     """
@@ -243,9 +234,7 @@ def standardize_categories(df: pd.DataFrame, col: str = "category") -> pd.DataFr
     return df
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # STEP 4 — VALIDATE
-# ─────────────────────────────────────────────────────────────────────────────
 
 def validate_records(df: pd.DataFrame, table: str) -> tuple[pd.DataFrame, pd.DataFrame]:
     """
@@ -272,7 +261,7 @@ def validate_records(df: pd.DataFrame, table: str) -> tuple[pd.DataFrame, pd.Dat
         df = df[~mask]
         log.warning(f"  Rejected {len(bad):>4} rows [{table}] — {reason}")
 
-    # ── PRICE_RECORDS rules ──────────────────────────────────────────────────
+    # ── PRICE_RECORDS rules 
     if table == "price_records":
         reject(df["price_egp"].isna(),                       "price_egp is null")
         reject(df["price_egp"] <= 0,                         "price_egp is zero or negative")
@@ -285,17 +274,17 @@ def validate_records(df: pd.DataFrame, table: str) -> tuple[pd.DataFrame, pd.Dat
             "duplicate (product_id + supermarket_id + recorded_date)"
         )
 
-    # ── PRODUCTS rules ───────────────────────────────────────────────────────
+    # PRODUCTS rules 
     elif table == "products":
         reject(df["product_name"].isna() | (df["product_name"] == ""),  "product_name is null or empty")
         reject(df["category"].isna(),                                    "category is null")
 
-    # ── SUPERMARKETS rules ───────────────────────────────────────────────────
+    # SUPERMARKETS rules 
     elif table == "supermarkets":
         reject(df["chain_name"].isna() | (df["chain_name"] == ""),  "chain_name is null or empty")
         reject(df["governorate"].isna(),                             "governorate is null")
 
-    # ── CPI_DATA rules ───────────────────────────────────────────────────────
+    # CPI_DATA rules
     elif table == "cpi_data":
         reject(df["cpi_value"].isna(),                               "cpi_value is null")
         reject(df["cpi_value"] <= 0,                                 "cpi_value is zero or negative")
@@ -307,9 +296,7 @@ def validate_records(df: pd.DataFrame, table: str) -> tuple[pd.DataFrame, pd.Dat
     return df, rejected_df
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # STEP 5 — LOAD
-# ─────────────────────────────────────────────────────────────────────────────
 
 def create_schema(conn: sqlite3.Connection):
     """
@@ -381,7 +368,7 @@ def load_to_sqlite(df: pd.DataFrame, table: str, db_path: str):
         log.info(f"load_to_sqlite [{table}]: nothing to load")
         return 0
 
-    # Convert dates and booleans to SQLite-friendly types
+    # Convert dates and booleans to SQLite
     df = df.copy()
     for col in df.select_dtypes(include="datetime64[ns]").columns:
         df[col] = df[col].dt.strftime("%Y-%m-%d")
@@ -428,9 +415,7 @@ def log_run(run_stats: dict):
     log.info(f"Run log updated → {RUN_LOG_PATH}")
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # MAIN PIPELINE
-# ─────────────────────────────────────────────────────────────────────────────
 
 def run_pipeline(data_dir: str, db_path: str):
     """
@@ -453,7 +438,7 @@ def run_pipeline(data_dir: str, db_path: str):
     total_rejected = 0
     all_rejected   = []
 
-    # ── Table pipeline definitions ───────────────────────────────────────────
+    # Table pipeline definitions 
     pipeline = [
         {
             "file":    os.path.join(data_dir, "products.csv"),
@@ -529,7 +514,7 @@ def run_pipeline(data_dir: str, db_path: str):
     }
     log_run(run_stats)
 
-    # ── Summary ──────────────────────────────────────────────────────────────
+    # Summary
     log.info("\n" + "=" * 60)
     log.info("ETL PIPELINE COMPLETE")
     log.info(f"  Records loaded   : {total_loaded:,}")
@@ -542,9 +527,7 @@ def run_pipeline(data_dir: str, db_path: str):
     return run_stats
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # ENTRY POINT
-# ─────────────────────────────────────────────────────────────────────────────
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="MasrRetail ETL Pipeline")
