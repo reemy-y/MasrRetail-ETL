@@ -23,9 +23,8 @@ from etl import (
 )
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # HELPERS — build small test DataFrames
-# ─────────────────────────────────────────────────────────────────────────────
+
 
 def make_price_row(**kwargs):
     """Return a single-row price_records DataFrame with sane defaults."""
@@ -86,9 +85,7 @@ def make_cpi_row(**kwargs):
     return pd.DataFrame([defaults])
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TESTS: clean_prices()
-# ─────────────────────────────────────────────────────────────────────────────
 
 class TestCleanPrices:
 
@@ -146,9 +143,7 @@ class TestCleanPrices:
         assert result.empty
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TESTS: clean_products()
-# ─────────────────────────────────────────────────────────────────────────────
 
 class TestCleanProducts:
 
@@ -171,9 +166,7 @@ class TestCleanProducts:
         assert clean_products(pd.DataFrame()).empty
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TESTS: clean_supermarkets()
-# ─────────────────────────────────────────────────────────────────────────────
 
 class TestCleanSupermarkets:
 
@@ -196,9 +189,7 @@ class TestCleanSupermarkets:
         assert clean_supermarkets(pd.DataFrame()).empty
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TESTS: clean_cpi()
-# ─────────────────────────────────────────────────────────────────────────────
 
 class TestCleanCpi:
 
@@ -221,9 +212,7 @@ class TestCleanCpi:
         assert clean_cpi(pd.DataFrame()).empty
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TESTS: standardize_categories()
-# ─────────────────────────────────────────────────────────────────────────────
 
 class TestStandardizeCategories:
 
@@ -269,10 +258,7 @@ class TestStandardizeCategories:
         assert result["category"].iloc[0] == "Dairy"
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TESTS: validate_records() — price_records
-# ─────────────────────────────────────────────────────────────────────────────
-
 class TestValidatePriceRecords:
 
     def test_valid_row_passes(self):
@@ -342,9 +328,7 @@ class TestValidatePriceRecords:
         assert rejected["source_table"].iloc[0] == "price_records"
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TESTS: validate_records() — products
-# ─────────────────────────────────────────────────────────────────────────────
 
 class TestValidateProducts:
 
@@ -365,9 +349,7 @@ class TestValidateProducts:
         assert len(valid) == 0
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TESTS: validate_records() — supermarkets
-# ─────────────────────────────────────────────────────────────────────────────
 
 class TestValidateSupermarkets:
 
@@ -387,9 +369,7 @@ class TestValidateSupermarkets:
         assert len(valid) == 0
 
 
-# ─────────────────────────────────────────────────────────────────────────────
 # TESTS: validate_records() — cpi_data
-# ─────────────────────────────────────────────────────────────────────────────
 
 class TestValidateCpi:
 
