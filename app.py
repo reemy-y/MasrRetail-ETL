@@ -210,10 +210,16 @@ with tab1:
             }
             cpi_category = PRODUCT_TO_CPI_CATEGORY.get(product_category, product_category)
 
+            # Only plot CPI points within the same date range as the price data,
+            # so the chart's x-axis doesn't extend further back than actual prices.
+            min_price_date = trend_df["recorded_date"].min()
+
             cpi_query = f"""
                 SELECT period_year, period_month, AVG(cpi_value) as cpi_value
                 FROM cpi_data
                 WHERE category = '{cpi_category}' AND governorate = 'National'
+                  AND (period_year > {min_price_date.year}
+                       OR (period_year = {min_price_date.year} AND period_month >= {min_price_date.month}))
                 GROUP BY period_year, period_month
                 ORDER BY period_year, period_month
             """
