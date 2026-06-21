@@ -21,3 +21,8 @@ Thumbs.db
 streamlit_test.log
 app_test.log
 boot.log
+ 
+# Generated database and logs (not source data) 
+masrretail.db 
+etl_run_log.csv 
+rejected_rows.csv 
