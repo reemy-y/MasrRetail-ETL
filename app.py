@@ -199,10 +199,21 @@ with tab1:
                 products_df["product_name"] == selected_product, "category"
             ].iloc[0]
 
+            # Product categories and CPI categories use different naming conventions.
+            # Map product category -> matching CPI category before querying.
+            PRODUCT_TO_CPI_CATEGORY = {
+                "Bread & Bakery":  "Bread & Cereals",
+                "Dairy":           "Dairy",
+                "Meat & Poultry":  "Meat & Poultry",
+                "Vegetables":      "Vegetables",
+                "Packaged Goods":  "Food & Beverages",
+            }
+            cpi_category = PRODUCT_TO_CPI_CATEGORY.get(product_category, product_category)
+
             cpi_query = f"""
                 SELECT period_year, period_month, AVG(cpi_value) as cpi_value
                 FROM cpi_data
-                WHERE category = '{product_category}' AND governorate = 'National'
+                WHERE category = '{cpi_category}' AND governorate = 'National'
                 GROUP BY period_year, period_month
                 ORDER BY period_year, period_month
             """
@@ -213,13 +224,15 @@ with tab1:
                 )
                 fig.add_trace(go.Scatter(
                     x=cpi_df["date"], y=cpi_df["cpi_value"],
-                    mode="lines", name=f"CPI: {product_category} (National)",
+                    mode="lines", name=f"CPI: {cpi_category} (National)",
                     line=dict(color="#C62828", width=2, dash="dash"),
                     yaxis="y2",
                 ))
                 fig.update_layout(
                     yaxis2=dict(title="CPI Index (Base 2020=100)", overlaying="y", side="right")
                 )
+            else:
+                st.caption(f"No CPI data available for category '{cpi_category}'.")
 
         fig.update_layout(
             xaxis_title="Date", yaxis_title="Price (EGP)",
