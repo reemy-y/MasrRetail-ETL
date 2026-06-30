@@ -82,14 +82,12 @@ class TestCleanPrices:
         assert result["price_egp"].iloc[0] == 50.0
 
     def test_price_string_converted_to_float(self):
-        """price_egp arriving as string "45.50" must become float 45.5"""
         df = make_price_row(price_egp="45.50")
         result = clean_prices(df)
         assert result["price_egp"].iloc[0] == 45.5
         assert result["price_egp"].dtype == float
 
     def test_non_numeric_price_becomes_nan(self):
-        """Garbage price like 'N/A' must become NaN (validation will reject it)"""
         df = make_price_row(price_egp="N/A")
         result = clean_prices(df)
         assert pd.isna(result["price_egp"].iloc[0])
@@ -110,7 +108,6 @@ class TestCleanPrices:
         assert result["is_on_sale"].iloc[0] == False
 
     def test_discount_price_cleared_when_not_on_sale(self):
-        """If is_on_sale=False, discount_price must be set to NaN regardless"""
         df = make_price_row(is_on_sale=False, discount_price=35.0)
         result = clean_prices(df)
         assert pd.isna(result["discount_price"].iloc[0])
@@ -295,7 +292,6 @@ class TestValidatePriceRecords:
         assert "recorded_date" in rejected["rejection_reason"].iloc[0]
 
     def test_duplicate_rows_second_one_rejected(self):
-        """Same product + store + date twice → second row rejected"""
         row = clean_prices(make_price_row())
         df = pd.concat([row, row], ignore_index=True)
         valid, rejected = validate_records(df, "price_records")
