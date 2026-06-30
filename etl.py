@@ -1,29 +1,10 @@
-"""
-MasrRetail ETL Pipeline
-=======================
-Extracts CSV source files → Cleans & validates → Loads into SQLite database.
-
-Usage:
-    python etl.py                     # runs full pipeline with default paths
-    python etl.py --db my.db          # custom database path
-    python etl.py --data-dir ./data   # custom data folder
-
-Output:
-    - masrretail.db          : SQLite database with 4 tables
-    - rejected_rows.csv      : All rows that failed validation (with reason)
-    - etl_run_log.csv        : One row per pipeline run (for dashboard log view)
-"""
-
 import os
 import sys
 import argparse
 import sqlite3
 import logging
 from datetime import datetime
-
 import pandas as pd
-
-# CONFIG
 
 
 DEFAULT_DB_PATH   = "masrretail.db"
@@ -31,7 +12,6 @@ DEFAULT_DATA_DIR  = "masrretail_data"
 REJECTED_PATH     = "rejected_rows.csv"
 RUN_LOG_PATH      = "etl_run_log.csv"
 
-# Maps raw category names (dirty) → standard 5 categories
 CATEGORY_MAP = {
     "dairy":          "Dairy",
     "milk":           "Dairy",
@@ -120,7 +100,7 @@ def clean_prices(df: pd.DataFrame) -> pd.DataFrame:
         df[col] = df[col].astype(str).str.strip()
         df[col] = df[col].replace("nan", pd.NA)
 
-    # Numeric coercion — errors become NaN so validation catches them
+    # Numeric coercion
     for col in ["price_egp", "discount_price"]:
         if col in df.columns:
             df[col] = pd.to_numeric(df[col], errors="coerce")
@@ -166,12 +146,6 @@ def clean_products(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def clean_supermarkets(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Clean the supermarkets DataFrame:
-    - Strip whitespace
-    - Standardize store_type capitalisation
-    - Fill is_active with True
-    """
     if df.empty:
         return df
 
@@ -193,12 +167,6 @@ def clean_supermarkets(df: pd.DataFrame) -> pd.DataFrame:
 
 
 def clean_cpi(df: pd.DataFrame) -> pd.DataFrame:
-    """
-    Clean the CPI DataFrame:
-    - Strip whitespace
-    - Cast numeric columns
-    - Validate period_month is 1-12
-    """
     if df.empty:
         return df
 
@@ -237,11 +205,6 @@ def standardize_categories(df: pd.DataFrame, col: str = "category") -> pd.DataFr
 # STEP 4 — VALIDATE
 
 def validate_records(df: pd.DataFrame, table: str) -> tuple[pd.DataFrame, pd.DataFrame]:
-    """
-    Validate rows according to table-specific rules.
-    Returns (valid_df, rejected_df).
-    Rejected rows gain a 'rejection_reason' column.
-    """
     if df.empty:
         return df, pd.DataFrame()
 
@@ -261,7 +224,7 @@ def validate_records(df: pd.DataFrame, table: str) -> tuple[pd.DataFrame, pd.Dat
         df = df[~mask]
         log.warning(f"  Rejected {len(bad):>4} rows [{table}] — {reason}")
 
-    # ── PRICE_RECORDS rules 
+    # PRICE_RECORDS rules 
     if table == "price_records":
         reject(df["price_egp"].isna(),                       "price_egp is null")
         reject(df["price_egp"] <= 0,                         "price_egp is zero or negative")
@@ -359,11 +322,6 @@ def create_schema(conn: sqlite3.Connection):
 
 
 def load_to_sqlite(df: pd.DataFrame, table: str, db_path: str):
-    """
-    Upsert-safe load: insert rows, replace on primary key conflict.
-    Uses INSERT OR REPLACE so re-running the pipeline on an existing
-    database updates matching rows instead of crashing on duplicate keys.
-    """
     if df.empty:
         log.info(f"load_to_sqlite [{table}]: nothing to load")
         return 0
@@ -375,7 +333,7 @@ def load_to_sqlite(df: pd.DataFrame, table: str, db_path: str):
     for col in df.select_dtypes(include="bool").columns:
         df[col] = df[col].astype(int)
 
-    # Replace NaN/NaT with None so SQLite stores proper NULLs
+
     df = df.where(pd.notnull(df), None)
 
     cols = list(df.columns)
@@ -393,10 +351,6 @@ def load_to_sqlite(df: pd.DataFrame, table: str, db_path: str):
 
 
 def save_rejected(rejected_df: pd.DataFrame):
-    """
-    Append rejected rows to rejected_rows.csv.
-    Creates the file with headers on first run, appends on subsequent runs.
-    """
     if rejected_df.empty:
         return
 
@@ -406,9 +360,6 @@ def save_rejected(rejected_df: pd.DataFrame):
 
 
 def log_run(run_stats: dict):
-    """
-    Append one row to etl_run_log.csv for the dashboard pipeline log view.
-    """
     row = pd.DataFrame([run_stats])
     write_header = not os.path.exists(RUN_LOG_PATH)
     row.to_csv(RUN_LOG_PATH, mode="a", index=False, header=write_header)
@@ -418,15 +369,6 @@ def log_run(run_stats: dict):
 # MAIN PIPELINE
 
 def run_pipeline(data_dir: str, db_path: str):
-    """
-    Full ETL run:
-      1. Load all 5 CSVs
-      2. Clean each DataFrame
-      3. Standardize categories
-      4. Validate and split into valid / rejected
-      5. Load valid rows into SQLite
-      6. Save rejected rows and run log
-    """
     start_time = datetime.now()
     log.info("=" * 60)
     log.info("MasrRetail ETL pipeline starting")
@@ -492,11 +434,10 @@ def run_pipeline(data_dir: str, db_path: str):
         n_loaded = load_to_sqlite(valid_df, step["table"], db_path)
         total_loaded += n_loaded
 
-    # ── Save rejected rows ───────────────────────────────────────────────────
+
     if all_rejected:
         save_rejected(pd.concat(all_rejected, ignore_index=True))
 
-    # ── Log this run ─────────────────────────────────────────────────────────
     elapsed = (datetime.now() - start_time).total_seconds()
     rejection_rate = (
         round(total_rejected / (total_loaded + total_rejected) * 100, 2)
