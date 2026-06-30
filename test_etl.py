@@ -1,18 +1,8 @@
-"""
-MasrRetail ETL — Unit Tests
-============================
-Run with:   pytest test_etl.py -v
-
-Tests every cleaning and validation function in etl.py
-in complete isolation — no database, no CSV files needed.
-"""
-
 import pytest
 import pandas as pd
 import numpy as np
 from datetime import date
 
-# Import functions from our ETL script
 from etl import (
     clean_prices,
     clean_products,
@@ -23,11 +13,8 @@ from etl import (
 )
 
 
-# HELPERS — build small test DataFrames
-
 
 def make_price_row(**kwargs):
-    """Return a single-row price_records DataFrame with sane defaults."""
     defaults = {
         "price_id":       1,
         "product_id":     1,
@@ -242,7 +229,6 @@ class TestStandardizeCategories:
         assert result["category"].iloc[0] == "Packaged Goods"
 
     def test_unknown_category_left_unchanged(self):
-        """Unrecognised values pass through — validation handles them downstream"""
         df = make_product_row(category="Electronics")
         result = standardize_categories(df)
         assert result["category"].iloc[0] == "Electronics"
