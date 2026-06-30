@@ -189,7 +189,10 @@ This app is deployed on **Streamlit Community Cloud** at [https://masr-retail.st
 
 ## Team
 
-Graduation project — Data Engineer track, DEPI (Digital Egypt Pioneers Initiative).
+Reem Yasser Mohamed
+Reem Osama Mohamed
+Mai Ahmed Mostafa
+Joussiana Atef Marzouk
 
 ---
 
