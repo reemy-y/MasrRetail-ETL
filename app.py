@@ -1,4 +1,3 @@
-
 import os
 import sqlite3
 from datetime import datetime
@@ -57,8 +56,6 @@ def to_csv_download(df: pd.DataFrame, label: str, filename: str, key: str):
     st.download_button(label, csv, filename, "text/csv", key=key)
 
 
-
-# AUTO-RUN ETL on first launch 
 
 if not os.path.exists(DB_PATH):
     with st.spinner("First-time setup: running ETL pipeline to build the database..."):
