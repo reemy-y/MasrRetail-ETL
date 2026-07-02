@@ -223,9 +223,9 @@ This app is deployed on **Streamlit Community Cloud** at [https://masr-retail.st
 
 ## Team
 
-Reem Yasser Mohamed
-Reem Osama Mohamed
-Mai Ahmed Mostafa
+Reem Yasser Mohamed-
+Reem Osama Mohamed-
+Mai Ahmed Mostafa-
 Joussiana Atef Marzouk
 
 ---
